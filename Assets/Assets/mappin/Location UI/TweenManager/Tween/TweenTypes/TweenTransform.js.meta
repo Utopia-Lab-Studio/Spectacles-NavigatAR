@@ -1,0 +1,68 @@
+- !<AssetImportMetadata/88ab9a2a-f6d8-4ae1-b0fc-e6f2f906fa2e>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 371806b9-2ffc-4878-b9bf-db19577d278e
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 371806b9-2ffc-4878-b9bf-db19577d278e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 3dee8e0f-8ce8-4ebb-88a2-bb257dea5f72
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/050c365c-5202-4890-931c-488ea843a575>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/3dee8e0f-8ce8-4ebb-88a2-bb257dea5f72>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    additive: false
+    delay: false
+    easingFunction: false
+    easingType: false
+    end: false
+    from: false
+    isLocal: false
+    loopType: false
+    movementType: false
+    offset: false
+    playAutomatically: false
+    sceneObjectReference: false
+    start: false
+    time: false
+    to: false
+    tweenName: false
+    type: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - sceneObjectReference: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tweenName: ""
+      playAutomatically: true
+      loopType: 0
+      type: 0
+      movementType: 0
+      start: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      end: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      from: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      to: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      offset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      additive: false
+      time: !<float> 1.000000
+      delay: !<float> 0.000000
+      isLocal: true
+      easingFunction: Quadratic
+      easingType: Out
+  ScriptTypes:
+    -
+      {}

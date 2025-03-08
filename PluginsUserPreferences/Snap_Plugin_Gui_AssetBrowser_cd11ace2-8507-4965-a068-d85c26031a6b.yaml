@@ -1,0 +1,1082 @@
+CollapsedEntities:
+  type: stringset
+  value:
+    size: 1076
+    values:
+      - Assets/Fonts
+      - Assets/Fonts/PlusJakartaSans-Bold.ttf
+      - Assets/Fonts/PlusJakartaSans-Regular.ttf
+      - Assets/Intro
+      - Assets/Intro/Intro-Hint
+      - Assets/Intro/Intro-Hint/Materials
+      - Assets/Intro/Intro-Hint/Materials/Intro
+      - Assets/Intro/Intro-Hint/Materials/Intro/LogoMaterial.mat
+      - Assets/Intro/Intro-Hint/Materials/Intro/RoutePlannerTextMaterial.mat
+      - Assets/Intro/Intro-Hint/Materials/Intro/TutorialSequenceMaterial.mat
+      - Assets/Intro/Intro-Hint/Scripts
+      - Assets/Intro/Intro-Hint/Scripts/IntroSequence.ts
+      - Assets/Intro/Intro-Hint/Scripts/Utils
+      - Assets/Intro/Intro-Hint/Scripts/Utils/LazyFollow.ts
+      - Assets/Intro/Intro-Hint/Shaders
+      - Assets/Intro/Intro-Hint/Shaders/Flat.ss_graph
+      - Assets/Intro/Intro-Hint/Textures
+      - Assets/Intro/Intro-Hint/Textures/IntroSequence
+      - Assets/Intro/Intro-Hint/Textures/IntroSequence/CompassSetup.png
+      - Assets/Intro/Intro-Hint/Textures/IntroSequence/CompassSetup2.png
+      - Assets/Intro/Intro-Hint/Textures/IntroSequence/CompassSetup3.png
+      - Assets/Intro/Intro-Hint/Textures/IntroSequence/RoutePlanerLogo.png
+      - Assets/Intro/Intro-Hint/Textures/IntroSequence/RoutePlannerText.png
+      - Assets/Intro/Intro.prefab
+      - Assets/Location UI
+      - Assets/Location UI/Font
+      - Assets/Location UI/Font/PlusJakartaSans-Bold.ttf
+      - Assets/Location UI/Frame.png
+      - Assets/Location UI/Info_Icon
+      - Assets/Location UI/Info_Icon/Meshes
+      - Assets/Location UI/Info_Icon/Meshes/Info_Icon.mesh
+      - Assets/Location UI/Location UI.prefab
+      - Assets/Location UI/Map_pin.glb
+      - Assets/Location UI/Map_pin.glb/.hidden
+      - Assets/Location UI/Map_pin.glb/.hidden/plastic touched
+      - Assets/Location UI/Map_pin.glb/Map_pin
+      - Assets/Location UI/Map_pin.glb/Materials
+      - Assets/Location UI/Map_pin.glb/Materials/plastic touched
+      - Assets/Location UI/Map_pin.glb/Meshes
+      - Assets/Location UI/Map_pin.glb/Meshes/Circle.001
+      - Assets/Location UI/Rainbow Material
+      - Assets/Location UI/Rainbow Material/.hidden
+      - Assets/Location UI/Rainbow Material/.hidden/Rainbow.ss_graph
+      - Assets/Location UI/Rainbow Material/Rainbow 2.mat
+      - Assets/Location UI/Rainbow Material/Rainbow.mat
+      - Assets/Location UI/TweenManager
+      - Assets/Location UI/TweenManager/Tween
+      - Assets/Location UI/TweenManager/Tween/TweenTypes
+      - Assets/Location UI/TweenManager/Tween/TweenTypes/TweenTransform.js
+      - Assets/Materials_Shaders
+      - Assets/Materials_Shaders/Image 1.mat
+      - Assets/Materials_Shaders/Image.mat
+      - Assets/Materials_Shaders/Mat-Rim_MinimapUI 1
+      - Assets/Materials_Shaders/Mat-Rim_MinimapUI 1/Materials
+      - Assets/Materials_Shaders/Mat-Rim_MinimapUI 1/Materials/SimpleUnlitRimBlueMinimap.mat
+      - Assets/Materials_Shaders/Mat-Rim_MinimapUI 1/Shaders
+      - Assets/Materials_Shaders/Mat-Rim_MinimapUI 1/Shaders/Simple Unlit Rim.ss_graph
+      - Assets/Materials_Shaders/Occluder.mat
+      - Assets/Materials_Shaders/Unlit Blue light.mat
+      - Assets/Materials_Shaders/Unlit Blue.mat
+      - Assets/Materials_Shaders/Unlit White 1.mat
+      - Assets/Materials_Shaders/Unlit White.mat
+      - Assets/Materials_Shaders/flat.ss_graph
+      - Assets/Materials_Shaders/image_unlit.ss_graph
+      - Assets/Materials_Shaders/occluder.ss_graph
+      - Assets/Materials_Shaders/rotIcon.mat
+      - Assets/Meshes
+      - Assets/Meshes/Icon_Minimap.glb
+      - Assets/Meshes/Icon_Minimap.glb/.hidden
+      - Assets/Meshes/Icon_Minimap.glb/.hidden/SVGMat
+      - Assets/Meshes/Icon_Minimap.glb/Icon_Minimap
+      - Assets/Meshes/Icon_Minimap.glb/Materials
+      - Assets/Meshes/Icon_Minimap.glb/Materials/SVGMat
+      - Assets/Meshes/Icon_Minimap.glb/Meshes
+      - Assets/Meshes/Icon_Minimap.glb/Meshes/Curve.153
+      - Assets/Meshes/Map-Panel-Curve.glb
+      - Assets/Meshes/Map-Panel-Curve.glb/.hidden
+      - Assets/Meshes/Map-Panel-Curve.glb/.hidden/Material
+      - Assets/Meshes/Map-Panel-Curve.glb/Map-Panel-Curve
+      - Assets/Meshes/Map-Panel-Curve.glb/Materials
+      - Assets/Meshes/Map-Panel-Curve.glb/Materials/Material
+      - Assets/Meshes/Map-Panel-Curve.glb/Meshes
+      - Assets/Meshes/Map-Panel-Curve.glb/Meshes/Cube
+      - Assets/Meshes/Recenter_Icon2.glb
+      - Assets/Meshes/Recenter_Icon2.glb/.hidden
+      - Assets/Meshes/Recenter_Icon2.glb/.hidden/SVGMat.005
+      - Assets/Meshes/Recenter_Icon2.glb/Materials
+      - Assets/Meshes/Recenter_Icon2.glb/Materials/SVGMat.005
+      - Assets/Meshes/Recenter_Icon2.glb/Meshes
+      - Assets/Meshes/Recenter_Icon2.glb/Meshes/Curve.004
+      - Assets/Meshes/Recenter_Icon2.glb/Recenter_Icon2
+      - Assets/Meshes/X_Icon3D
+      - Assets/Meshes/X_Icon3D/.hidden
+      - Assets/Meshes/X_Icon3D/.hidden/SVGMat.001.ss_graph
+      - Assets/Meshes/X_Icon3D/Materials
+      - Assets/Meshes/X_Icon3D/Materials/SVGMat.001.mat
+      - Assets/Meshes/X_Icon3D/Meshes
+      - Assets/Meshes/X_Icon3D/Meshes/Curve.mesh
+      - Assets/Meshes/X_Icon3D/X_Icon3D.prefab
+      - Assets/Textures
+      - Assets/Textures/Arrow_GIF320.gif
+      - Assets/Textures/Hint-Minimap.png
+      - Assets/Textures/Hint3-Keyboard.png
+      - Assets/Textures/HintDestination.png
+      - Assets/Textures/HintKeyboard.png
+      - Assets/Textures/HintNearbyPlace.png
+      - Assets/Textures/ImageMaterial.mat
+      - Assets/Textures/LOGO.png
+      - Assets/Textures/Modal-BG.png
+      - Assets/Textures/rotIcon1.png
+      - Assets/mappin
+      - Assets/mappin/Location UI
+      - Assets/mappin/Location UI/Rainbow Material
+      - Assets/mappin/Location UI/Rainbow Material/.hidden
+      - Assets/mappin/Location UI/Rainbow Material/.hidden/Rainbow.ss_graph
+      - Assets/mappin/Location UI/Rainbow Material/Rainbow.mat
+      - Assets/mappin/Location UI/TweenManager
+      - Assets/mappin/Location UI/TweenManager/Tween
+      - Assets/mappin/Location UI/TweenManager/Tween/TweenTypes
+      - Assets/mappin/Location UI/TweenManager/Tween/TweenTypes/TweenTransform.js
+      - Assets/mappin/Map_pin
+      - Assets/mappin/Map_pin/Map_pin.glb
+      - Assets/mappin/Map_pin/Map_pin.glb/.hidden
+      - Assets/mappin/Map_pin/Map_pin.glb/.hidden/plastic touched
+      - Assets/mappin/Map_pin/Map_pin.glb/Map_pin
+      - Assets/mappin/Map_pin/Map_pin.glb/Materials
+      - Assets/mappin/Map_pin/Map_pin.glb/Materials/plastic touched
+      - Assets/mappin/Map_pin/Map_pin.glb/Meshes
+      - Assets/mappin/Map_pin/Map_pin.glb/Meshes/Circle.001
+      - Assets/mappin/Map_pin/Map_pin.prefab
+      - Device Camera Texture.deviceCameraTexture
+      - MiniSnapmap
+      - MiniSnapmap/Map Component
+      - MiniSnapmap/Map Component/Map
+      - MiniSnapmap/Map Component/Map/.hidden
+      - MiniSnapmap/Map Component/Map/.hidden/Location Pin.ss_graph
+      - MiniSnapmap/Map Component/Map/.hidden/Map Geometry Material.ss_graph
+      - MiniSnapmap/Map Component/Map/.hidden/Map Tile.ss_graph
+      - MiniSnapmap/Map Component/Map/.hidden/MapMask.ss_graph
+      - MiniSnapmap/Map Component/Map/.hidden/SpritePreset1.lsmat.ss_graph
+      - MiniSnapmap/Map Component/Map/LocationService.js
+      - MiniSnapmap/Map Component/Map/Map
+      - MiniSnapmap/Map Component/Map/Map Mask Circle.png
+      - MiniSnapmap/Map Component/Map/Map Module.mapModule
+      - MiniSnapmap/Map Component/Map/Map Outline.png
+      - MiniSnapmap/Map Component/Map/Map Pin.png
+      - MiniSnapmap/Map Component/Map/Map Render Target.renderTarget
+      - MiniSnapmap/Map Component/Map/Map/Map.js
+      - MiniSnapmap/Map Component/Map/MapController.js
+      - MiniSnapmap/Map Component/Map/MapGridView.js
+      - MiniSnapmap/Map Component/Map/Materials
+      - MiniSnapmap/Map Component/Map/Materials/Location Pin.mat
+      - MiniSnapmap/Map Component/Map/Materials/Map Geometry Material.mat
+      - MiniSnapmap/Map Component/Map/Materials/Map Tile.mat
+      - MiniSnapmap/Map Component/Map/Materials/MapMask.mat
+      - MiniSnapmap/Map Component/Map/Materials/SpritePreset.lsmat.mat
+      - MiniSnapmap/Map Component/Map/Prefabs
+      - MiniSnapmap/Map Component/Map/Prefabs/ExamplePin.prefab
+      - MiniSnapmap/Map Component/Map/Prefabs/Map Render.prefab
+      - MiniSnapmap/Map Component/Map/Prefabs/Map component.prefab
+      - MiniSnapmap/Map Component/Map/Prefabs/Userpin.prefab
+      - MiniSnapmap/Map Component/Map/UserPin.png
+      - MiniSnapmap/Map Component/Map/White.png
+      - MiniSnapmap/MapBase
+      - MiniSnapmap/MapBase/Common
+      - MiniSnapmap/MapBase/Common/Textures
+      - MiniSnapmap/MapBase/Common/Textures/FlatWhite.png
+      - MiniSnapmap/MapBase/Materials
+      - MiniSnapmap/MapBase/Materials/Minimap
+      - MiniSnapmap/MapBase/Materials/Minimap/MapGlow.mat
+      - MiniSnapmap/MapBase/Materials/Minimap/MinimapBase.mat
+      - MiniSnapmap/MapBase/Meshes
+      - MiniSnapmap/MapBase/Meshes/Map Meshes
+      - MiniSnapmap/MapBase/Meshes/Map Meshes/Cylinder.mesh
+      - MiniSnapmap/MapBase/Meshes/Map Meshes/glow1.mesh
+      - MiniSnapmap/MapBase/Shaders
+      - MiniSnapmap/MapBase/Shaders/MapGlow.ss_graph
+      - MiniSnapmap/MapBase/Shaders/MinimapClip.ss_graph
+      - "MiniSnapmap/MapImage[ImageScreenTransform].prefab"
+      - MiniSnapmap/Materials
+      - MiniSnapmap/Materials/MapImage.mat
+      - Minimap
+      - Minimap/Image_Map.mat
+      - Minimap/Map-mock.png
+      - Minimap/Mini_Map.prefab
+      - Minimap/PlusJakartaSans-Medium.ttf
+      - Minimap/PlusJakartaSans-SemiBold.ttf
+      - Minimap/SpectaclesInteractionKit
+      - Minimap/SpectaclesInteractionKit/Assets
+      - Minimap/SpectaclesInteractionKit/Assets/Audio
+      - Minimap/SpectaclesInteractionKit/Assets/Audio/HoverAudioTrack.wav
+      - Minimap/SpectaclesInteractionKit/Assets/Audio/TriggerEndAudioTrack.wav
+      - Minimap/SpectaclesInteractionKit/Assets/Audio/TriggerStartAudioTrack.wav
+      - Minimap/SpectaclesInteractionKit/Assets/Meshes
+      - Minimap/SpectaclesInteractionKit/Assets/Meshes/ButtonCapsuleMesh.mesh
+      - Minimap/SpectaclesInteractionKit/Assets/Meshes/ScrollBarSlider.mesh
+      - Minimap/SpectaclesInteractionKit/Assets/Textures
+      - Minimap/SpectaclesInteractionKit/Assets/Textures/ScrollBarRectangle.png
+      - Minimap/SpectaclesInteractionKit/Components
+      - Minimap/SpectaclesInteractionKit/Components/Helpers
+      - Minimap/SpectaclesInteractionKit/Components/Interaction
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/Billboard
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/HandVisual
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/Headlock
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/Interactable
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractableManipulation
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractionPlane
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Cursor.mat
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorMat.ss_graph
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMat.ss_graph
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMaterial.mat
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Plane.mesh
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/disabled.png
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tl.png
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tr.png
+      - Minimap/SpectaclesInteractionKit/Components/Interaction/InteractorCursor/translate.png
+      - Minimap/SpectaclesInteractionKit/Components/UI
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial-use.mat
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial-use.ss_graph
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.mat
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.ss_graph
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.mat
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.ss_graph
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_Mid.mesh
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SysSettings_settings_button.mesh
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/FramePrefab.prefab
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/container-button.prefab
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon-1.png
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/container-button-matcap.jpg
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-black.png
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white.png
+      - Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1.jpg
+      - Minimap/SpectaclesInteractionKit/Components/UI/PinchButton
+      - Minimap/SpectaclesInteractionKit/Components/UI/ScrollBar
+      - Minimap/SpectaclesInteractionKit/Components/UI/ScrollView
+      - Minimap/SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider
+      - Minimap/SpectaclesInteractionKit/Components/UI/Slider
+      - Minimap/SpectaclesInteractionKit/Components/UI/ToggleButton
+      - Minimap/SpectaclesInteractionKit/Core
+      - Minimap/SpectaclesInteractionKit/Core/HandInteractor
+      - Minimap/SpectaclesInteractionKit/Core/InteractionManager
+      - Minimap/SpectaclesInteractionKit/Core/Interactor
+      - Minimap/SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms
+      - Minimap/SpectaclesInteractionKit/Core/MouseInteractor
+      - Minimap/SpectaclesInteractionKit/Decorators
+      - Minimap/SpectaclesInteractionKit/Prefabs
+      - Minimap/SpectaclesInteractionKit/Providers
+      - Minimap/SpectaclesInteractionKit/Providers/CameraProvider
+      - Minimap/SpectaclesInteractionKit/Providers/CursorControllerProvider
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData/LeftHandAsset.handTracking3D
+      - Minimap/SpectaclesInteractionKit/Providers/HandInputData/RightHandAsset.handTracking3D
+      - Minimap/SpectaclesInteractionKit/Providers/InteractionConfigurationProvider
+      - Minimap/SpectaclesInteractionKit/Providers/TargetProvider
+      - Minimap/SpectaclesInteractionKit/Utils
+      - Minimap/SpectaclesInteractionKit/Utils/views
+      - Minimap/SpectaclesInteractionKit/Utils/views/LineRenderer
+      - Prefab
+      - Prefab/Arrow_3D
+      - Prefab/Arrow_3D/3D_Arrow.glb
+      - Prefab/Arrow_3D/3D_Arrow.glb/3D_Arrow
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.001
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.002
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.003
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.004
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.005
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.006
+      - Prefab/Arrow_3D/3D_Arrow.glb/Action.007
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.001
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.001/Plane.003_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.002
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.002/Plane.002_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.003
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.003/Plane.006_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.004
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.004/Plane.010_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.005
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.005/Plane.011_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.006
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.006/Plane.012_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.007
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action.007/Plane.013_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Animations/Action/Plane_
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.003
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.006
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.007
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.010
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.011
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.012
+      - Prefab/Arrow_3D/3D_Arrow.glb/Meshes/Plane.013
+      - Prefab/Arrow_3D/3D_Arrow.prefab
+      - Prefab/Arrow_3D/Advanced Material Library
+      - Prefab/Arrow_3D/Advanced Material Library/Materials
+      - Prefab/Arrow_3D/Advanced Material Library/Materials/Unlit_Glow_Blue.mat
+      - Prefab/Arrow_3D/Advanced Material Library/Materials/unlit.ss_graph
+      - Prefab/Arrow_3D/Blue_Glow.png
+      - Prefab/Arrow_3D/Essential Material Library
+      - Prefab/Arrow_3D/Essential Material Library/Materials
+      - Prefab/Arrow_3D/Essential Material Library/Materials/Simple Unlit Rim Blue.mat
+      - Prefab/Arrow_3D/Essential Material Library/Materials/Simple Unlit Rim W.mat
+      - Prefab/Arrow_3D/Essential Material Library/Shaders
+      - Prefab/Arrow_3D/Essential Material Library/Shaders/Simple Unlit Rim.ss_graph
+      - Prefab/Arrow_3D/Plane.mesh
+      - Prefab/Arrrow_turn
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/3D_Arrow_Turn
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.001
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.002
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.003
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.004
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.005
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.006
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.007
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.008
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Action.009
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.001
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.001/Cylinder.001_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.002
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.002/Cylinder.002_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.003
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.003/Cylinder.003_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.004
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.004/Cylinder.004_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.005
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.005/Cylinder.005_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.006
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.006/Cylinder.006_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.007
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.007/Cylinder.007_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.008
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.008/Plane.014_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.009
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action.009/ARROW_Turn_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Animations/Action/Cylinder_
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.003
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.004
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.005
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.006
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.007
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.008
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Cylinder.009
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.glb/Meshes/Plane.014
+      - Prefab/Arrrow_turn/3D_Arrow_Turn.prefab
+      - Prefab/Arrrow_turn/Advanced Material Library
+      - Prefab/Arrrow_turn/Advanced Material Library/Materials
+      - Prefab/Arrrow_turn/Advanced Material Library/Materials/Unlit_Glow_Pink.mat
+      - Prefab/Arrrow_turn/Advanced Material Library/Materials/unlit.ss_graph
+      - Prefab/Arrrow_turn/Essential Material Library
+      - Prefab/Arrrow_turn/Essential Material Library/Materials
+      - Prefab/Arrrow_turn/Essential Material Library/Materials/Simple Unlit Rim Pink.mat
+      - Prefab/Arrrow_turn/Essential Material Library/Shaders
+      - Prefab/Arrrow_turn/Essential Material Library/Shaders/Simple Unlit Rim.ss_graph
+      - Prefab/Arrrow_turn/Magenta_Glow3.png
+      - Prefab/Arrrow_turn/Plane.mesh
+      - Prefab/Ground Arrow_old_one
+      - Prefab/Ground Arrow_old_one/Arrow_Green.mp4
+      - Prefab/Ground Arrow_old_one/Ground Arrow.prefab
+      - Prefab/Ground Arrow_old_one/MaterialParams.png
+      - Prefab/Ground Arrow_old_one/Normal.png
+      - Prefab/Ground Arrow_old_one/PBR_Tile.mat
+      - Prefab/Ground Arrow_old_one/Plane.mesh
+      - Prefab/Ground Arrow_old_one/pbr.ss_graph
+      - Prefab/North_confirmation
+      - Prefab/North_confirmation/Advanced Material Library
+      - Prefab/North_confirmation/Advanced Material Library/Materials
+      - Prefab/North_confirmation/Advanced Material Library/Materials/unlit.ss_graph
+      - Prefab/North_confirmation/North Confirmation.prefab
+      - Prefab/North_confirmation/North_icon.png
+      - Prefab/North_confirmation/PlusJakartaSans-Regular.ttf
+      - Prefab/North_confirmation/Unlit_North_glow.mat
+      - Prefab/North_confirmation/Unlit_North_icon.mat
+      - Prefab/North_confirmation/white_Glow.png
+      - Prefab/Place_scrollItem.prefab
+      - Prefab/Step_scrollItem.prefab
+      - Prefab/Turn_Text
+      - Prefab/Turn_Text/PlusJakartaSans-Bold.ttf
+      - Prefab/Turn_Text/TurnText.prefab
+      - Prefab/Turn_Text/UI_Tween
+      - Prefab/Turn_Text/UI_Tween/Font
+      - Prefab/Turn_Text/UI_Tween/Font/PlusJakartaSans-ExtraBold.ttf
+      - Raw Location Module.rawLocationModule
+      - Remote Service Module.remoteServiceModule
+      - Render Target.renderTarget
+      - Scene.scene
+      - Script/ScrollListCreator.js
+      - Script/deviceRot.js
+      - Script/findPlace.js
+      - Script/findPlace_toTS.ts
+      - Script/handTrack.ts
+      - Script/openKeyboard.ts
+      - Script/testing_unused
+      - Script/testing_unused/testSpeech.js
+      - Script/testing_unused/testToggle.ts
+      - Script/testing_unused/test_toggle.js
+      - Script/uiflow.js
+      - Script/voiceCmd.js
+      - SpectaclesInteractionKit
+      - SpectaclesInteractionKit/Assets/Audio
+      - SpectaclesInteractionKit/Assets/Audio/HoverAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Audio/TriggerEndAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Audio/TriggerStartAudioTrack.wav
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/FingerHighlightLeft.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/FingerHighlightRight.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/FingerTipGlow.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/HandOccluderLeft.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/HandOccluderRight.mat
+      - SpectaclesInteractionKit/Assets/Materials/BaseHandVisualsMaterials/RadialGradientOcclusion.mat
+      - SpectaclesInteractionKit/Assets/Materials/BitmojiMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/ContainerImageMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/LogoMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/NormalBasedTargetOutline.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOffIcon.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnDefault.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnIcon.mat
+      - SpectaclesInteractionKit/Assets/Materials/PinchButtonToggleOnSelect.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 1.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 10.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 2.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 3.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 4.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 5.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 6.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 7.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 8.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close 9.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_close.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_glow 1.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_glow 2.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/3D resources/Materials/SystemSettings/SysSet_round_button_glow.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/RoundButtonHover.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/RoundButtonPinched.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/RoundButton_Idle.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll 1.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll 2.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/SWIS/SWIS/3D resources/Materials/LensExplorer/LensExp_scroll_bg.mat
+      - SpectaclesInteractionKit/Assets/Materials/PlatformUI/Slider_Platform.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScaleBasedTargetOutline.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScrollBarButton.mat
+      - SpectaclesInteractionKit/Assets/Materials/ScrollBarSlider.mat
+      - SpectaclesInteractionKit/Assets/Materials/SimplePBRMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/PinchButtonOnSelect.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/SliderMat.mat
+      - SpectaclesInteractionKit/Assets/Materials/SliderMat/TargetOutlineMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/SpritePreset.mat
+      - SpectaclesInteractionKit/Assets/Materials/TargetOutlineMaterial.mat
+      - SpectaclesInteractionKit/Assets/Materials/Text3DDefault.mat
+      - SpectaclesInteractionKit/Assets/Meshes
+      - SpectaclesInteractionKit/Assets/Meshes/BoxMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ButtonCapsuleMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ButtonSphereMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/Check.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/LeftHandMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlaneMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/PlatformCapsuleButton.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/PlatformSphereButton.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/RoundButton.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/RoundButtonGlow.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/ScrollBarKnobMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/ScrollBarMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/PlatformUI/Slider.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/RightHandMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/ScrollBarSlider.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SliderSphereKnob.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SliderTrack.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SnapGhost_Mesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/SphereMesh.mesh
+      - SpectaclesInteractionKit/Assets/Meshes/Uncheck.mesh
+      - SpectaclesInteractionKit/Assets/Shaders
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/FingerHighlight.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/FingerTipGlow.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/HandOccluder.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/BaseHandVisualsShaders/RadialGradientOcclusion.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/NormalBasedTargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PinchButton-ActiveOrInActive.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PinchDarkRadial.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ButtonHover.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ButtonIdle.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ButtonPinched.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/CapsuleButtonHover.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/CapsuleButtonIdle.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/CapsuleButtonPinched.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonGlowHover.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonGlowIdle.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonGlowPinched.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonHover.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButtonPinched.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/RoundButton_Idle.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollBackground.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollButtonHover.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollButtonIdle.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/ScrollButtonPinched.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/Slider_Platform.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/StateButtonToggledHover.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/PlatformUI/StateButtonToggledPinched.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ScaleBasedTargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ScrollBarSlider.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders/PinchButton-Default.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SliderShaders/Slider.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/SpritePreset.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/TargetOutline.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/Text3DDefault.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ToggleOff.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ToggleOn.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/ToggleOnSelect.ss_graph
+      - SpectaclesInteractionKit/Assets/Shaders/simple_pbr.ss_graph
+      - SpectaclesInteractionKit/Assets/Textures
+      - SpectaclesInteractionKit/Assets/Textures/2DBitmojiAvatar.png
+      - SpectaclesInteractionKit/Assets/Textures/Base.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/Glow.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshNewMask.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshNewMaskColored.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshPinchTexture.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/handMeshTapTexture.png
+      - SpectaclesInteractionKit/Assets/Textures/BaseHandVisualsTextures/occlusionGradient.png
+      - SpectaclesInteractionKit/Assets/Textures/MaterialParams.png
+      - SpectaclesInteractionKit/Assets/Textures/Normal.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/ArrowDown.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/ArrowUp.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/Close.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/FollowIconBlack.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/FollowIconWhite.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/Image.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/Mask_simple_reflection_ellipse.png
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleIdle.jpg
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleIdle_05.jpg
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleRefl_02.jpg
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleRefl_05.jpg
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/SimpleRefl_06.jpg
+      - SpectaclesInteractionKit/Assets/Textures/PlatformUI/UI_glow.jpg
+      - SpectaclesInteractionKit/Assets/Textures/Rectangle-Active.png
+      - SpectaclesInteractionKit/Assets/Textures/Rectangle-Inactive.png
+      - SpectaclesInteractionKit/Assets/Textures/Rectangle.png
+      - SpectaclesInteractionKit/Assets/Textures/SIKContainerExampleImage.jpg
+      - SpectaclesInteractionKit/Assets/Textures/SIKLogo.png
+      - SpectaclesInteractionKit/Assets/Textures/ScrollBarRectangle.png
+      - SpectaclesInteractionKit/Components
+      - SpectaclesInteractionKit/Components/Helpers
+      - SpectaclesInteractionKit/Components/Helpers/ButtonFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/CapsuleMeshCustomizer.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableAudioFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableColorFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableOutlineFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/InteractableSquishFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/ScreenTransformAdapter.ts
+      - SpectaclesInteractionKit/Components/Helpers/ScrollBarFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/SliderFeedback.ts
+      - SpectaclesInteractionKit/Components/Helpers/ToggleFeedback.ts
+      - SpectaclesInteractionKit/Components/Interaction
+      - SpectaclesInteractionKit/Components/Interaction/Billboard
+      - SpectaclesInteractionKit/Components/Interaction/Billboard/Billboard.ts
+      - SpectaclesInteractionKit/Components/Interaction/Billboard/BillboardController.ts
+      - SpectaclesInteractionKit/Components/Interaction/Billboard/BillboardRotationCalculator.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/GlowEffectView.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/GlowEffectViewModel.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/HandVisual.ts
+      - SpectaclesInteractionKit/Components/Interaction/HandVisual/RadialOcclusionView.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/Headlock.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockController.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockRotationCalculator.ts
+      - SpectaclesInteractionKit/Components/Interaction/Headlock/HeadlockTranslationCalculator.ts
+      - SpectaclesInteractionKit/Components/Interaction/Interactable
+      - SpectaclesInteractionKit/Components/Interaction/Interactable/Interactable.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractableManipulation
+      - SpectaclesInteractionKit/Components/Interaction/InteractableManipulation/InteractableManipulation.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractionPlane
+      - SpectaclesInteractionKit/Components/Interaction/InteractionPlane/InteractionPlane.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CircleVisual.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Cursor.mat
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorController.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorMat.ss_graph
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/CursorViewModel.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/InteractorCursor.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMat.ss_graph
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/ManipulateLineMaterial.mat
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/Plane.mesh
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/disabled.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tl.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/scale-tr.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorCursor/translate.png
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMat.ss_graph
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineMaterial.mat
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineRenderer.ts
+      - SpectaclesInteractionKit/Components/Interaction/InteractorLineVisual/InteractorLineVisual.ts
+      - SpectaclesInteractionKit/Components/UI
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/ContainerFrame.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Ghost Material.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Image.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/Label.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.mat
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/container-button.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/flat.ss_graph
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_High.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/Frame_Mid.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SphereButton.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/SysSettings_settings_button.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Meshes/pinch-depth-button.mesh
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/FramePrefab.prefab
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Prefabs/container-button.prefab
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/README.md
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon-1.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/close-icon.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/container-button-matcap.jpg
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-black.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white-shadow.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/follow-white.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1-cube.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/reflection-map-1.jpg
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/Textures/soft-reflection.jpg
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/container-ui.png
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/CursorHandler.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/ForceContainerParent.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/FrameInputHandler.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/HoverBehavior.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/LabeledPinchButton.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SimpleLODRenderMeshVisual/SimpleLODRenderMeshVisual.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SmoothFollow.ts
+      - SpectaclesInteractionKit/Components/UI/ContainerFrame/modules/SnappableBehavior.ts
+      - SpectaclesInteractionKit/Components/UI/PinchButton
+      - SpectaclesInteractionKit/Components/UI/PinchButton/PinchButton.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollBar
+      - SpectaclesInteractionKit/Components/UI/ScrollBar/ScrollBar.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView
+      - SpectaclesInteractionKit/Components/UI/ScrollView/GridContentCreator.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/ScrollArea.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/ScrollProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/ScrollView.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/BoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/BufferedBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/SceneObjectBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/ScreenTransformBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/ScrollView/boundariesProvider/VisualBoundariesProvider.ts
+      - SpectaclesInteractionKit/Components/UI/Slider
+      - SpectaclesInteractionKit/Components/UI/Slider/Slider.ts
+      - SpectaclesInteractionKit/Components/UI/ToggleButton
+      - SpectaclesInteractionKit/Components/UI/ToggleButton/ToggleButton.ts
+      - SpectaclesInteractionKit/Core
+      - SpectaclesInteractionKit/Core/ConfigurationValidator
+      - SpectaclesInteractionKit/Core/ConfigurationValidator/ConfigurationValidator.ts
+      - SpectaclesInteractionKit/Core/HandInteractor
+      - SpectaclesInteractionKit/Core/HandInteractor/HandInteractor.ts
+      - SpectaclesInteractionKit/Core/InteractionManager
+      - SpectaclesInteractionKit/Core/InteractionManager/EventDispatcher.ts
+      - SpectaclesInteractionKit/Core/InteractionManager/InteractionManager.ts
+      - SpectaclesInteractionKit/Core/Interactor
+      - SpectaclesInteractionKit/Core/Interactor/BaseInteractor.ts
+      - SpectaclesInteractionKit/Core/Interactor/ColliderTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/DirectTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/DragProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/HandRayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/IndirectTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/Interactor.ts
+      - SpectaclesInteractionKit/Core/Interactor/InteractorEvent.ts
+      - SpectaclesInteractionKit/Core/Interactor/MobileRayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/MouseTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/PokeTargetProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/RayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/TouchRayProvider.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/AxisAngle.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/ContinousIrInteractionTransition.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/IrInteractionTransition.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/PinchJumpSuppressor.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastAnchorHead.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastAnchorVariableShoulder.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastBase.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastLegacySingleCamera.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RaycastProxy.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/RgbIrTransitionJumpSuppressor.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/SwitchIrInteractionTransition.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimeDataContainer.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimeScalarContainer.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimedVec2Container.ts
+      - SpectaclesInteractionKit/Core/Interactor/raycastAlgorithms/TimedVec3Container.ts
+      - SpectaclesInteractionKit/Core/LogLevelConfiguration
+      - SpectaclesInteractionKit/Core/LogLevelConfiguration/LogLevelConfiguration.ts
+      - SpectaclesInteractionKit/Core/LogLevelConfiguration/SIKLogLevelConfiguration.ts
+      - SpectaclesInteractionKit/Core/MobileInteractor
+      - SpectaclesInteractionKit/Core/MobileInteractor/MobileInteractor.ts
+      - SpectaclesInteractionKit/Core/MouseInteractor
+      - SpectaclesInteractionKit/Core/MouseInteractor/MouseInteractor.ts
+      - SpectaclesInteractionKit/Decorators
+      - SpectaclesInteractionKit/Decorators/Singleton.ts
+      - SpectaclesInteractionKit/Examples
+      - SpectaclesInteractionKit/Examples/RocketWorkshop
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/ModernBodyTube_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/ModernFins_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/ModernNoseCone_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SleekBodyTube_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SleekFins_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SleekNoseCone_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SpaceAgeBodyTube_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SpaceAgeFins_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Icons/SpaceAgeNoseCone_icon.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Meteor.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Planet.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Planet_rings.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Platform.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_fire.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_glass.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_glass_satellite.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_grey.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_metal.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_metal_red.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_01.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_02.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_03.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_plastic_03_logo.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_white.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Rocket_white_logo.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Materials/Objects/SIK_Satellite_blue.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden/Lightbake.001
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/.hidden/white
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Bases
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Materials
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Materials/Lightbake.001
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Circular
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Cubic_01
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/Bases.fbx/Meshes/Hexagon_01
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Meteor
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Planet
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Planet1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom2
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_bottom3
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_middle2
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_top
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_01_top1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_bottom
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_middle
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_02_top
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom2
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom3
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_bottom4
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_middle
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Rocket_03_top2
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite1
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite2
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/Meshes/Satellite3
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Meshes/SIK_Rockets.fbx/SIK_Rockets
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Modern Body Tube.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Modern Fins.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Modern Nose Cone.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Sleek Body Tube.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Sleek Fins.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Sleek Nose Cone.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Space Age Body Tube.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Space Age Fins.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/Parts/Space Age Nose Cone.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Body Tube Category.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Fins Category.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Body Tube.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Fins.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Modern Nose Cone.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Nose Cone Category.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Body Tube.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Fins.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Sleek Nose Cone.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Body Tube.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Fins.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Prefabs/ScrollViewListItems/Space Age Nose Cone.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/ExhaustControls.ts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketConfigurator.ts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketGridContentCreator.ts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketLaunchControl.ts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Scripts/RocketScrollViewItem.ts
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Glass.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Meteor.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Planet.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Planet_rings.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Platform.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Shaders/Rocket.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/A-icon.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/B-icon.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/C-icon.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Meteor_bc.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Platforms_AO.jpg
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Rockets_AO.jpg
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Snap_logo.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/SIK_Space_logo_TEMP.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-A.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-B.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/body-tube_rocket-C.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-A.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-B.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/fins_rocket-C.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-A.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-B.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/Textures/ScrollViewThumbnails/nose-cone_rocket-C.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/Bones_clouds_ANIM_mat_landing.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/Bones_clouds_material_landing_.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/CloudsLanding.animationAsset
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Landing/line1.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/Bones_clouds_ANIM_mat_takeoff.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/Bones_clouds_material_start_.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/CloudsStart.animationAsset
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Clouds Start/line1.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/Custom Mesh Emitter.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/Rocket_clouds_emit.vfxgraph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Custom Mesh Emitter/cl_goup.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Fire.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Fire_ANIM_mat.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Glow_ANIM_mat.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/Glow_MAt.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/blendshapes1.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/dots.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/engine_exhaust.prefab
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Exhaust/glow_plane.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/Noise00.png
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/Plane.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/RadialHeat_ANIM_mat.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Radial Heat/Radial_heat.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 1.animationAsset
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 2.animationAsset
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Animations/Base Layer Rocket 3.animationAsset
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/Rocket_sparks.mesh
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/Top_Rocket_Trail.mat
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/Top_Rocket_Trail.ss_graph
+      - SpectaclesInteractionKit/Examples/RocketWorkshop/VFX/Rocket Sparks/stripe_noise 2.png
+      - SpectaclesInteractionKit/Examples/SIK Examples.prefab
+      - SpectaclesInteractionKit/Prefabs
+      - SpectaclesInteractionKit/Prefabs/ScrollViewListItem.prefab
+      - SpectaclesInteractionKit/Prefabs/SpectaclesInteractionKit.prefab
+      - SpectaclesInteractionKit/Providers
+      - SpectaclesInteractionKit/Providers/CameraProvider
+      - SpectaclesInteractionKit/Providers/CameraProvider/ARCameraFinderProvider.ts
+      - SpectaclesInteractionKit/Providers/CameraProvider/BaseCameraFinderProvider.ts
+      - SpectaclesInteractionKit/Providers/CameraProvider/BaseWorldCameraProvider.ts
+      - SpectaclesInteractionKit/Providers/CameraProvider/CameraProvider.ts
+      - SpectaclesInteractionKit/Providers/CameraProvider/WorldCameraFinderProvider.ts
+      - SpectaclesInteractionKit/Providers/CursorControllerProvider
+      - SpectaclesInteractionKit/Providers/CursorControllerProvider/CursorControllerProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData
+      - SpectaclesInteractionKit/Providers/HandInputData/BaseHand.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/DefaultHandTrackingAssetProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/GestureModuleProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/MotionControllerProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection/PalmTapDetector.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetection/PalmTapDetectorStateMachine.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapDetectionEvent.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PalmTapEvent.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/HciPinchDetectionStrategy.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/HeuristicPinchDetectionStrategy.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/DetectionStrategies/PinchDetectionStrategy.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/PinchDetector.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchDetection/PinchDetectorStateMachine.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/GestureProvider/PinchEventType.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandInputData.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandTrackingAssetProvider.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandType.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/HandVisuals.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/Joints.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/Keypoint.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/LandmarkNames.ts
+      - SpectaclesInteractionKit/Providers/HandInputData/LeftHandAsset.handTracking3D
+      - SpectaclesInteractionKit/Providers/HandInputData/RightHandAsset.handTracking3D
+      - SpectaclesInteractionKit/Providers/HandInputData/TrackedHand.ts
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/InteractionConfigurationProvider.ts
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/LogLevelProvider.ts
+      - SpectaclesInteractionKit/Providers/InteractionConfigurationProvider/SIKLogLevelProvider.ts
+      - SpectaclesInteractionKit/Providers/MobileInputData
+      - SpectaclesInteractionKit/Providers/MobileInputData/MobileInputData.ts
+      - SpectaclesInteractionKit/Providers/TargetProvider
+      - SpectaclesInteractionKit/Providers/TargetProvider/TargetProvider.ts
+      - SpectaclesInteractionKit/Providers/TargetProvider/TargetingData.ts
+      - SpectaclesInteractionKit/SIK.ts
+      - SpectaclesInteractionKit/Utils
+      - SpectaclesInteractionKit/Utils/BistableThreshold.ts
+      - SpectaclesInteractionKit/Utils/Event.ts
+      - SpectaclesInteractionKit/Utils/Filter.ts
+      - SpectaclesInteractionKit/Utils/InputChecker.ts
+      - SpectaclesInteractionKit/Utils/InspectorCallbacks.ts
+      - SpectaclesInteractionKit/Utils/LensConfig.ts
+      - SpectaclesInteractionKit/Utils/LogLevel.ts
+      - SpectaclesInteractionKit/Utils/MovingAverageFilter.ts
+      - SpectaclesInteractionKit/Utils/NativeLogger.ts
+      - SpectaclesInteractionKit/Utils/OneEuroFilter.ts
+      - SpectaclesInteractionKit/Utils/ReplayEvent.ts
+      - SpectaclesInteractionKit/Utils/SafeReference.ts
+      - SpectaclesInteractionKit/Utils/SampleOps.ts
+      - SpectaclesInteractionKit/Utils/SceneObjectUtils.ts
+      - SpectaclesInteractionKit/Utils/SeededRandomNumberGenerator.ts
+      - SpectaclesInteractionKit/Utils/Spatial.ts
+      - SpectaclesInteractionKit/Utils/State.ts
+      - SpectaclesInteractionKit/Utils/StateMachine.ts
+      - SpectaclesInteractionKit/Utils/UpdateDispatcher.ts
+      - SpectaclesInteractionKit/Utils/aabb.ts
+      - SpectaclesInteractionKit/Utils/algorithms.ts
+      - SpectaclesInteractionKit/Utils/animate.ts
+      - SpectaclesInteractionKit/Utils/color.ts
+      - SpectaclesInteractionKit/Utils/debounce.ts
+      - SpectaclesInteractionKit/Utils/lazyProperty.ts
+      - SpectaclesInteractionKit/Utils/logger.ts
+      - SpectaclesInteractionKit/Utils/mathUtils.ts
+      - SpectaclesInteractionKit/Utils/notEmpty.ts
+      - SpectaclesInteractionKit/Utils/springAnimate.ts
+      - SpectaclesInteractionKit/Utils/validate.ts
+      - SpectaclesInteractionKit/Utils/views
+      - SpectaclesInteractionKit/Utils/views/LineRenderer
+      - SpectaclesInteractionKit/Utils/views/LineRenderer/LineMeshUtils.ts
+      - SpectaclesInteractionKit/Utils/views/LineRenderer/LineRenderer.ts
+      - SpectaclesInteractionKit/Utils/views/MeshView.ts
+      - SpectaclesInteractionKit/Utils/views/View.ts
+      - SpectaclesInteractionKit/package.native
+      - Speech Recognition.lspkg
+      - Speech Recognition.lspkg/Fonts
+      - Speech Recognition.lspkg/Fonts/Urbanist-VariableFont_wght.ttf
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Fonts"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Fonts/Lato-Bold.ttf"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Fonts/Lato-Regular.ttf"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Materials"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Materials/Info Card Background.mat"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Materials/SpritePreset.lsmat.mat"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Textures"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Textures/BaseTex.png"
+      - "Speech Recognition.lspkg/Info Card [DELETE_ME]/Textures/Icon.png"
+      - Speech Recognition.lspkg/Scripts
+      - Speech Recognition.lspkg/Scripts/Behavior.js
+      - Speech Recognition.lspkg/Scripts/CommandHandler.js
+      - Speech Recognition.lspkg/Scripts/Keyword.js
+      - Speech Recognition.lspkg/Scripts/SpeechContext.js
+      - Speech Recognition.lspkg/Scripts/SpeechRecogition.js
+      - Speech Recognition.lspkg/Scripts/VoiceMLLanguage.js
+      - Speech Recognition.lspkg/Shaders
+      - Speech Recognition.lspkg/Shaders/Info Card Background.ss_graph
+      - Speech Recognition.lspkg/Shaders/SpritePreset.lsmat.ss_graph
+      - Speech Recognition.lspkg/Speech Recognition__PLACE_IN_SCENE.prefab
+      - Speech Recognition.lspkg/VoiceML Module.voiceMLModule
+      - Speech Recognition.lspkg/package.native
+      - Text To Speech
+      - Text To Speech/Text To Speech Resources
+      - Text To Speech/Text To Speech Resources/Scripts
+      - Text To Speech/Text To Speech Resources/Scripts/TTSController.js
+      - "Text To Speech/Text To Speech Resources/Scripts/TTSExample[DELETE_ME].js"
+      - Text To Speech/Text To Speech Resources/TextToSpeech.textToSpeechModule
+      - Text To Speech/TextToSpeech__PLACE_IN_OBJECTS_PANEL.prefab
+      - TweenManager
+      - TweenManager/.hidden
+      - TweenManager/.hidden/Image Unlit.ss_graph
+      - TweenManager/.hidden/TweenBoxDiffuse.ss_graph
+      - TweenManager/Tween
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/ExampleTweenValueScript.js"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/Image Unlit.mat"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/TweenBoxDiffuse.mat"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/TweenBoxDiffuse_Alt.mat"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Materials/TweenSphereDiffuse.mat"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Meshes"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Meshes/TweenBox.mesh"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Meshes/TweenSphere.mesh"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Textures"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures"
+      - "TweenManager/Tween/ExampleResources [REMOVE_ME]/Textures/TweenImageTextures/Image.png"
+      - TweenManager/Tween/Tween.js
+      - TweenManager/Tween/TweenManager.js
+      - TweenManager/Tween/TweenTypes
+      - TweenManager/Tween/TweenTypes/TweenAlpha.js
+      - TweenManager/Tween/TweenTypes/TweenChain.js
+      - TweenManager/Tween/TweenTypes/TweenColor.js
+      - TweenManager/Tween/TweenTypes/TweenScreenTransform.js
+      - TweenManager/Tween/TweenTypes/TweenTransform.js
+      - TweenManager/Tween/TweenTypes/TweenValue.js
+      - TweenManager/TweenManager.prefab
+      - Tweend.lsc
+      - Web View
+      - Web View/Materials
+      - Web View/Materials/WebPlaneTexture.mat
+      - Web View/Materials/WebPlaneTexture.ss_graph
+      - Web View/Materials/WebViewFingerVisual.mat
+      - Web View/Materials/WebViewFingerVisual.ss_graph
+      - Web View/Meshes
+      - Web View/Meshes/FingerCapsule.mesh
+      - Web View/Meshes/FingerCapsuleUpdated.mesh
+      - Web View/Prefabs
+      - Web View/Prefabs/FingerVisual.prefab
+      - Web View/Prefabs/WebPlane.prefab
+      - Web View/Textures
+      - Web View/Textures/spinner-2.mp4
+      - Web View/Web.remoteServiceModule
+      - Web View/WebView.ts
+      - Web View/modules
+      - Web View/modules/behavior
+      - Web View/modules/behavior/PokeVisualHandler.ts
+      - Web View/modules/behavior/TouchHandler.ts
+      - Web View/package.native
+  options: 4

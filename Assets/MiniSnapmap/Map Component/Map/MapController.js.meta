@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/5463bcac-11de-4d54-8c84-393c3e811649>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> a4160cbb-e5ce-4eec-90f6-865b0a035bb5
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> a4160cbb-e5ce-4eec-90f6-865b0a035bb5
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> fa9c229e-5512-49ad-babe-7eb38ff97a48
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/e9a3d8f0-c8e1-4985-b088-0864978fc7ae>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    {}
+- !<ScriptAssetData/fa9c229e-5512-49ad-babe-7eb38ff97a48>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    lineMaterial: false
+    locationService: false
+    mapModule: false
+    mapRenderPrefab: false
+    mapTileMaterial: false
+    maskMaterial: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - mapModule: !<reference.MapModule> 00000000-0000-0000-0000-000000000000
+      locationService: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      mapTileMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      mapImage: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      mapImageTransform: !<reference.ScreenTransform> 00000000-0000-0000-0000-000000000000
+      mapGridObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      mapCenter: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      lineMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      mapRenderPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      maskMaterial: !<reference.Image> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

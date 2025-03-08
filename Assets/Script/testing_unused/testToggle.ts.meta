@@ -1,0 +1,38 @@
+- !<AssetImportMetadata/0ba56a00-aac4-48da-9e43-71e00cc8ba4a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> fd8d5bb3-4d59-43ab-a098-aa967ba48d9e
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> fd8d5bb3-4d59-43ab-a098-aa967ba48d9e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 17d2b8b1-0821-4855-86ea-aec67b9ac1ca
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/b236b07b-a47f-4c8c-89d8-77660c291968>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/17d2b8b1-0821-4855-86ea-aec67b9ac1ca>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    toggle: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - toggle: !<MappingBased.ToggleButton> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input ToggleButton toggle

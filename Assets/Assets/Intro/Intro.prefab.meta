@@ -1,0 +1,317 @@
+- !<AssetImportMetadata/2a5f445a-19b2-4df1-a40d-3c4eb426525f>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 5031ae7d-6165-4381-8e3d-c14bb739a224
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 5031ae7d-6165-4381-8e3d-c14bb739a224
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    ObjectPrefab: !<own> b8956f12-7f5f-4275-816d-0f60a0c66c70
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/8cc1077b-3ac4-43c0-8c24-02f7908b09c9>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/01f5a766-3df2-496c-bd9b-d0d501a94429>
+  PrefabRemaps:
+    []
+  Name: TutorialSequence
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 36.000000, y: 36.000000, z: 36.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 876e1f8f-387c-4d34-8e9c-3d6427008cef
+- !<SceneObject/03a8cd2f-e750-427d-b0de-d9f46979a87a>
+  PrefabRemaps:
+    []
+  Name: RoutePlannerText
+  Enabled: false
+  Layers: 1
+  LocalTransform:
+    position: {x: 6.587418, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 27.000000, y: 27.000000, z: 27.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d0195495-2552-49a4-add5-8a72fc094d96
+- !<SceneObject/24b2b7c9-291e-4939-b7b8-ad3d1215b610>
+  PrefabRemaps:
+    []
+  Name: Intro
+  Enabled: false
+  Layers: 1
+  LocalTransform:
+    position: {x: 64.834000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 01f5a766-3df2-496c-bd9b-d0d501a94429
+    - !<own> 50370626-9d30-4d6f-8951-f86b8344b365
+    - !<own> 03a8cd2f-e750-427d-b0de-d9f46979a87a
+  Components:
+    - !<own> e6f71352-63f8-4daf-97f7-bfed9beac684
+    - !<own> 3718f1e6-6de2-4f6f-ac5c-b20aec2d0ffb
+    - !<own> 5a216b4d-099f-4a75-9c55-e74658f3a6ff
+    - !<own> d698fe77-c8be-439e-9a1a-e05ab3b1bf73
+    - !<own> 34d110ab-2a1e-4d7d-abd1-735828101606
+    - !<own> 65493850-d635-4124-8ca5-1e7c09ef0f9a
+- !<ScriptComponent/34d110ab-2a1e-4d7d-abd1-735828101606>
+  PrefabRemaps:
+    []
+  Name: TweenManager
+  Enabled: true
+  ScriptAsset: !<reference> 0b01f705-5449-41db-850a-3858a8fe5529
+  ScriptInputsDefault:
+    printDebugLog: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      printDebugLog: false
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/3718f1e6-6de2-4f6f-ac5c-b20aec2d0ffb>
+  PrefabRemaps:
+    []
+  Name: IntroSequence
+  Enabled: true
+  ScriptAsset: !<reference> 9eb49996-ad27-4a3a-9924-4eefc22746e6
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      imageLogo: !<reference.Image> b0a5f35a-a11a-49cc-ae53-c5446c955329
+      imageText: !<reference.Image> d0195495-2552-49a4-add5-8a72fc094d96
+      tutorialSequence: !<reference.Image> 876e1f8f-387c-4d34-8e9c-3d6427008cef
+      tutorialImages: !<reference.Texture[]>
+        - !<reference> e97dba87-9a66-4b1f-80c6-1f5fb9941b95
+        - !<reference> 7d2e5a3e-9ea9-4c35-87e0-91a59fcb08db
+        - !<reference> d37621bf-f34f-47e7-a889-6bcd01c79ec0
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/50370626-9d30-4d6f-8951-f86b8344b365>
+  PrefabRemaps:
+    []
+  Name: RoutePlannerLogo
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 1.242912, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 45.000000, y: 45.000000, z: 45.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b0a5f35a-a11a-49cc-ae53-c5446c955329
+- !<ScriptComponent/5a216b4d-099f-4a75-9c55-e74658f3a6ff>
+  PrefabRemaps:
+    []
+  Name: Billboard
+  Enabled: true
+  ScriptAsset: !<reference> b5593251-a0da-4491-8561-2e0dccd715bc
+  ScriptInputsDefault:
+    _xAxisEnabled: true
+    _yAxisEnabled: true
+    _zAxisEnabled: true
+    _axisBufferDegrees: true
+    _axisEasing: true
+    duration: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      _xAxisEnabled: false
+      _yAxisEnabled: true
+      _zAxisEnabled: false
+      _axisBufferDegrees: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      _axisEasing: !<Vec3> {x: 1.000000, y: 1.000000, z: 1.000000}
+      duration: 0.033000
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/65493850-d635-4124-8ca5-1e7c09ef0f9a>
+  PrefabRemaps:
+    []
+  Name: ContainerFrame
+  Enabled: true
+  ScriptAsset: !<reference> 14c9f79e-3a55-43d4-bbf6-75c0d6d2e2a2
+  ScriptInputsDefault:
+    autoShowHide: true
+    innerSize: true
+    border: true
+    constantPadding: true
+    autoScaleContent: true
+    isContentInteractable: true
+    minimumSize: true
+    maximumSize: true
+    useBillboarding: true
+    xOnTranslate: true
+    xAlways: true
+    yOnTranslate: true
+    yAlways: true
+    useSnapping: true
+    itemSnapping: true
+    worldSnapping: true
+    showFollowButton: true
+    _enableInteractionPlane: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      autoShowHide: true
+      innerSize: !<Vec2> {x: 32.000000, y: 32.000000}
+      border: !<float> 4.000000
+      constantPadding: !<Vec2> {x: 0.000000, y: 0.000000}
+      allowScaling: false
+      autoScaleContent: true
+      isContentInteractable: false
+      allowTranslation: false
+      minimumSize: !<Vec2> {x: 10.000000, y: 10.000000}
+      maximumSize: !<Vec2> {x: 300.000000, y: 300.000000}
+      useBillboarding: false
+      xOnTranslate: false
+      xAlways: false
+      yOnTranslate: false
+      yAlways: false
+      useSnapping: false
+      itemSnapping: false
+      worldSnapping: false
+      showFollowButton: false
+      useFOVFollow: true
+      isFollowing: true
+      showCloseButton: false
+      _enableInteractionPlane: false
+  ScriptTypes:
+    "":
+      {}
+- !<Image/876e1f8f-387c-4d34-8e9c-3d6427008cef>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2b718abf-6767-4690-9e67-b96168a439f7
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<Image/b0a5f35a-a11a-49cc-ae53-c5446c955329>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0c36e969-b983-41ad-a33c-f0ed4bbb4df2
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/b8956f12-7f5f-4275-816d-0f60a0c66c70>
+  SourceRemaps:
+    - 014d7f07-d3ab-4f87-b6d6-f0bdd169b132: 34d110ab-2a1e-4d7d-abd1-735828101606
+    - 0363d0c0-af30-405f-a635-e7b5106a273b: 24b2b7c9-291e-4939-b7b8-ad3d1215b610
+    - 38a59c3e-12fe-4beb-87c1-325b880dcf37: b0a5f35a-a11a-49cc-ae53-c5446c955329
+    - 38be4283-0393-453d-a513-4cdd98151ea7: 01f5a766-3df2-496c-bd9b-d0d501a94429
+    - 5031ae7d-6165-4381-8e3d-c14bb739a224: bbe8fa92-df6f-49d8-9d03-78c9b65d0e6b
+    - 692bc4f7-7f0f-48dd-a14e-8b98cb7f809b: d698fe77-c8be-439e-9a1a-e05ab3b1bf73
+    - 7164ebe4-fc31-4d8d-b45a-d6e79f084a1b: e6f71352-63f8-4daf-97f7-bfed9beac684
+    - 72f31fed-ec89-4f50-b290-3ae26c968892: 65493850-d635-4124-8ca5-1e7c09ef0f9a
+    - 7ba461c9-6c7c-4d75-b4ec-6cd79b8120ea: 5a216b4d-099f-4a75-9c55-e74658f3a6ff
+    - 9c7f7556-ea8b-4805-a866-a2071a256dcc: 50370626-9d30-4d6f-8951-f86b8344b365
+    - baa43273-c275-4840-999a-de1b47d20868: 3718f1e6-6de2-4f6f-ac5c-b20aec2d0ffb
+    - d677411b-550f-44f9-a92a-b0b074672230: 876e1f8f-387c-4d34-8e9c-3d6427008cef
+    - ea1a805b-bfca-4eb5-b0d0-5a16780b4676: d0195495-2552-49a4-add5-8a72fc094d96
+    - fe8f19df-bae3-4d2a-861f-c4c695d514bb: 03a8cd2f-e750-427d-b0de-d9f46979a87a
+  SourceState: !<own> bbe8fa92-df6f-49d8-9d03-78c9b65d0e6b
+- !<ObjectPrefab/bbe8fa92-df6f-49d8-9d03-78c9b65d0e6b>
+  PackagePath: ""
+  objects:
+    - !<own> 24b2b7c9-291e-4939-b7b8-ad3d1215b610
+  LazyLoading: false
+  RetainAssets: true
+- !<Image/d0195495-2552-49a4-add5-8a72fc094d96>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6847fc21-fec9-4113-8514-ee65483039bf
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScriptComponent/d698fe77-c8be-439e-9a1a-e05ab3b1bf73>
+  PrefabRemaps:
+    []
+  Name: Tween
+  Enabled: true
+  ScriptAsset: !<reference> 8527d7fd-bea6-4ed1-8eeb-c646b21f59a3
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<ScriptComponent/e6f71352-63f8-4daf-97f7-bfed9beac684>
+  PrefabRemaps:
+    []
+  Name: LazyFollow
+  Enabled: true
+  ScriptAsset: !<reference> 630d0f44-b759-47a7-ba06-0d80bef239eb
+  ScriptInputsDefault:
+    worldOffset: true
+    freezeYAxisValue: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      targetObject: !<reference.SceneObject> 997123fa-3c06-40d5-874d-acaf0953cc93
+      followSpeed: !<float> 0.000000
+      localOffset: !<Vec3> {x: 0.000000, y: 0.000000, z: -100.000000}
+      worldOffset: !<Vec3> {x: 0.000000, y: 0.000000, z: 0.000000}
+      freezeYAxis: true
+      freezeYAxisValue: !<float> 0.000000
+  ScriptTypes:
+    "":
+      {}

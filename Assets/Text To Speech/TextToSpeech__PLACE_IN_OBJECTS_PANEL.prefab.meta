@@ -1,0 +1,136 @@
+- !<AssetImportMetadata/4a55c8b0-64cc-4416-8df1-48343779a9a5>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 1ce1f93b-d368-41e3-a9dd-cd77f19f563a
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 1ce1f93b-d368-41e3-a9dd-cd77f19f563a
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    AssetLibraryId: 91uCK9xPusn64PWkS99OY
+  AssetDataMap:
+    ObjectPrefab: !<own> 187cfbbb-17cd-4d30-98a3-6769e36feac5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/0c2860e9-4406-4d00-83e0-f9eb643b7eb3>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/187cfbbb-17cd-4d30-98a3-6769e36feac5>
+  SourceRemaps:
+    - 1ce1f93b-d368-41e3-a9dd-cd77f19f563a: cb85b2f5-b6fc-4cc3-bb90-bfcbe3239a91
+    - 1cebbd31-ff94-4642-81ac-ac693582dce2: 9e60cf5e-0191-4110-8622-8ad0a1de04e4
+    - 69a68aa9-576e-4059-84b7-4363d6abe120: c4593320-3f29-4e6d-9da8-b6a6386ac6ce
+    - 71c773f7-a3c1-4552-a135-e92cb4aea168: 8e7689aa-7de2-40c4-8226-7b4968ee56bf
+    - a1299da7-bdfd-4e5b-96f6-0111f63d5c90: 47335826-5a70-4176-b742-9c52edfa032d
+    - db51cd39-d01d-4980-98be-b32780fe934e: 68485c68-4723-4b9f-8e59-40fee80243fc
+    - ee221cf4-3895-4beb-a97d-161cd79a06ee: 805d802e-3fba-479e-9e2e-ef608b07b7ac
+  SourceState: !<own> cb85b2f5-b6fc-4cc3-bb90-bfcbe3239a91
+- !<ScriptComponent/47335826-5a70-4176-b742-9c52edfa032d>
+  PrefabRemaps:
+    []
+  Name: "TTSExample[DELETE_ME]"
+  Enabled: true
+  ScriptAsset: !<reference> 9b5829bb-80f1-41a6-b753-1bf37ea9fc38
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      text: Provide any text input
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/68485c68-4723-4b9f-8e59-40fee80243fc>
+  PrefabRemaps:
+    []
+  Name: TextToSpeech__PLACE_IN_OBJECTS_PANEL
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c4593320-3f29-4e6d-9da8-b6a6386ac6ce
+    - !<own> 9e60cf5e-0191-4110-8622-8ad0a1de04e4
+  Components:
+    []
+- !<ScriptComponent/805d802e-3fba-479e-9e2e-ef608b07b7ac>
+  PrefabRemaps:
+    []
+  Name: TTSController
+  Enabled: true
+  ScriptAsset: !<reference> a510d00d-05c4-44b6-a780-aa807e3a54f5
+  ScriptInputsDefault:
+    previewTTS: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      tts: !<reference.TextToSpeechModule> 2ea5601d-71fd-4715-8c38-b8135d5ca3ee
+      audio: !<reference.AudioComponent> 8e7689aa-7de2-40c4-8226-7b4968ee56bf
+      autoStyleSelector: true
+      voiceName: Sasha
+      voiceStyleSasha: 1
+      voiceStyleSam: 1
+      voicePace: !<float> 1.000000
+      previewTTS: false
+      previewText: Show me you love cats without telling me you love cats
+  ScriptTypes:
+    "":
+      {}
+- !<AudioComponent/8e7689aa-7de2-40c4-8226-7b4968ee56bf>
+  PrefabRemaps:
+    []
+  Name: Audio
+  Enabled: true
+  AudioTrack: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableAutoplayLoop: false
+  Volume: 1.000000
+  EnableMixToSnap: true
+  RecordVolume: 1.000000
+  EnableSpatialAudio: false
+  EnableDistanceEffect: false
+  CurveType: Logarithm
+  MinDistance: 0.000000
+  MaxDistance: 100.000000
+  EnableDirectivityEffect: false
+  EnablePositionEffect: false
+- !<SceneObject/9e60cf5e-0191-4110-8622-8ad0a1de04e4>
+  PrefabRemaps:
+    []
+  Name: "TTS Example [DELETE_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 47335826-5a70-4176-b742-9c52edfa032d
+- !<SceneObject/c4593320-3f29-4e6d-9da8-b6a6386ac6ce>
+  PrefabRemaps:
+    []
+  Name: "TTS Controller [EDIT_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 805d802e-3fba-479e-9e2e-ef608b07b7ac
+    - !<own> 8e7689aa-7de2-40c4-8226-7b4968ee56bf
+- !<ObjectPrefab/cb85b2f5-b6fc-4cc3-bb90-bfcbe3239a91>
+  PackagePath: TextToSpeech__PLACE_IN_OBJECTS_PANEL
+  objects:
+    - !<own> 68485c68-4723-4b9f-8e59-40fee80243fc
+  LazyLoading: false
+  RetainAssets: true

@@ -1,0 +1,150 @@
+- !<Material/ab7c3b1a-7b0c-4e47-9565-f80d2e98ae01>
+  PackagePath: ""
+  PassesInfo:
+    - !<own> 1ebaff43-64d1-4c2c-9f3b-3c4cbf7079d8
+- !<PassInfo/1ebaff43-64d1-4c2c-9f3b-3c4cbf7079d8>
+  CachedProperties:
+    - baseTextBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - baseTextDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - baseTextTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - baseTextUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - mapMaskBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - mapMaskDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - mapMaskTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - mapMaskUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - mapOutlineBorderColor:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - mapOutlineDims:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - mapOutlineTransform:
+        typeIdx: 7
+        value:
+          0: {x: 1.000000, y: 0.000000, z: 0.000000}
+          1: {x: 0.000000, y: 1.000000, z: 0.000000}
+          2: {x: 0.000000, y: 0.000000, z: 1.000000}
+    - mapOutlineUvMinMax:
+        typeIdx: 5
+        value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    - overrideTimeDelta:
+        typeIdx: 1
+        value: 0.000000
+    - overrideTimeElapsed:
+        typeIdx: 1
+        value: 0.000000
+    - overrideTimeEnabled:
+        typeIdx: 0
+        value: 0
+  DepthWrite: true
+  DepthTest: true
+  DepthFunction: LessEqual
+  TwoSided: false
+  ColorMask: {x: true, y: true, z: true, w: true}
+  CullMode: Back
+  PolygonOffset: {x: 0.000000, y: 0.000000}
+  FrustumCulling: Auto
+  FrustumCullPad: 0.000000
+  InstanceCount: 1
+  Defines:
+    []
+  BlendMode: PremultipliedAlphaAuto
+  Properties:
+    Port_Input1_N011:
+      typeIdx: 1
+      value: 2.000000
+    Port_Input1_N017:
+      typeIdx: 1
+      value: 2.000000
+    Port_Input1_N047:
+      typeIdx: 1
+      value: 0.900000
+    Port_Value4_N045:
+      typeIdx: 1
+      value: 1.000000
+    Port_Value_N010:
+      typeIdx: 1
+      value: 1.000000
+    Port_Value_N015:
+      typeIdx: 1
+      value: 1.000000
+    PreviewEnabled:
+      typeIdx: 0
+      value: 0
+    backgroundColor:
+      typeIdx: 5
+      value: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+    baseText:
+      typeIdx: 9
+      value:
+        id: d9758a37-a085-4a22-8dd4-afd3ad5cb3ef
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    heightDivider:
+      typeIdx: 1
+      value: 0.500000
+    lineColor:
+      typeIdx: 5
+      value: {x: 0.956863, y: 0.952941, z: 0.945098, w: 1.000000}
+    lineThickness:
+      typeIdx: 1
+      value: 0.001500
+    mapMask:
+      typeIdx: 9
+      value:
+        id: 6d3da423-7069-4531-845f-2a465c9f9300
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    mapOutline:
+      typeIdx: 9
+      value:
+        id: 6844e925-e163-4fa6-a5c9-bd30699a82a6
+        sampler:
+          filteringMode: Trilinear
+          wrapModeU: Repeat
+          wrapModeV: Repeat
+          wrapModeW: Repeat
+          borderColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
+          mipmaps: false
+        type: Texture2D
+    useOutlineTexture:
+      typeIdx: 2
+      value: true
+    widthDivider:
+      typeIdx: 1
+      value: 1.000000
+  Pass: !<reference> 39aa233d-4b57-4d88-9cc7-e1912f2d3cac

@@ -1,0 +1,116 @@
+- !<AssetImportMetadata/9066a5f2-bb48-4491-8d86-aecbe82da8dc>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 273645c4-9e48-4d72-88c4-3c47376b13bf
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 273645c4-9e48-4d72-88c4-3c47376b13bf
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 9b3c13b6-531d-4867-9571-0b82d03309b5
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/60b09bc7-07e9-49f6-891c-cdf44696113b>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/9b3c13b6-531d-4867-9571-0b82d03309b5>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    API_key: false
+    arrow_UI: false
+    consent_panel: false
+    dest_txt: false
+    dirUI_obj: false
+    goal_obj: false
+    gpsOff: false
+    gpsOn: false
+    gps_txt: false
+    hand_obj: false
+    hint_panel: false
+    instruct_txt: false
+    mapComponent: false
+    map_txt: false
+    nearby_URL: false
+    north_panel: false
+    plane_obj: false
+    rainbow_mat: false
+    remoteServiceModule: false
+    rotLeft_obj: false
+    rotRight_obj: false
+    route_URL: false
+    scrollBar_Script: false
+    scrollView_Script: false
+    scroll_Script: false
+    sign_UI: false
+    start_button: false
+    turnLeft_obj: false
+    turnRight_obj: false
+    turn_obj: false
+    unlit_mat: false
+    voice_Script: false
+    voice_txt: false
+    webmap_obj: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - remoteServiceModule: !<reference.RemoteServiceModule> 00000000-0000-0000-0000-000000000000
+      gps_txt: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      gpsOn: !<Vec4> {x: 0.050000, y: 0.900000, z: 0.100000, w: 1.000000}
+      gpsOff: !<Vec4> {x: 0.500000, y: 0.500000, z: 0.500000, w: 1.000000}
+      placesUI_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      prefab_placeUI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      backbutton_UI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      webView: !<reference.WebViewComponent> 00000000-0000-0000-0000-000000000000
+      dirUI_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      instruct_txt: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      plane_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      turn_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      goal_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      arrow_UI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      APIkey: ""
+      API_key: ""
+      sign_UI: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      arrowLeft_mat: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      arrowRight_mat: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      turnLeft_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      turnRight_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      webmap_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      voice_txt: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      rotLeft: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rotRight: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rotLeft_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      rotRight_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      dest_txt: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      map_txt: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      voice_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      start_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      start_button: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      north_panel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hint_panel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      scroll_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      scrollView_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      scrollBar_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      startButton_obj: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      unlitMat: !<RequiredType.Material> 00000000-0000-0000-0000-000000000000
+      newMaterial: !<RequiredType.Material> 00000000-0000-0000-0000-000000000000
+      unlit_mat: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      rainbow_mat: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      mapComponent: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      minimap_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hand_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      consent_panel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      route_URL: ""
+      nearby_URL: ""
+  ScriptTypes:
+    -
+      {}

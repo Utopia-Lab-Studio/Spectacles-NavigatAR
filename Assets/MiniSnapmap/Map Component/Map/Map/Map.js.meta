@@ -1,0 +1,86 @@
+- !<AssetImportMetadata/9b695d2e-1650-40b2-9063-f98b8ea5f50f>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 659a44d1-654b-441b-85d0-d826e3c6c2ab
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 659a44d1-654b-441b-85d0-d826e3c6c2ab
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    JavaScriptAsset: !<own> 3a98fc58-795b-437c-82c0-6fc36c103779
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/e5e0008b-bba2-441c-b271-1acf3b64f5ea>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    {}
+- !<ScriptAssetData/3a98fc58-795b-437c-82c0-6fc36c103779>
+  SvgIcon: |
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_1_129)">
+    <path d="M8 16L4 12L0 16H8Z" fill="#82C4F6"/>
+    <path d="M4 12L8 16H16V0L4 12Z" fill="#F2F1EF"/>
+    <path d="M0 0H16L0 16V0Z" fill="#ACD891"/>
+    <path d="M10.7263 13.5C11.1168 13.1256 11.9194 12.2009 12.6381 11.3022C12.9974 10.853 13.4273 10.1207 13.6695 9.6439C13.9053 9.17976 14 8.5446 14 8.16811C14 6.41504 12.4045 5 10.4444 5C8.48444 5 6.88889 6.41504 6.88889 8.16811C6.88889 8.5446 7.03204 9.07889 7.2513 9.6439C7.43985 10.1298 7.79311 10.7284 8.15242 11.1776C8.87112 12.0763 9.7721 13.1256 10.1626 13.5C10.3147 13.6458 10.5742 13.6458 10.7263 13.5ZM11.5364 8.06447C11.5364 8.575 11.0537 9.17976 10.4444 9.17976C9.83524 9.17976 9.35196 8.575 9.35196 8.06447C9.35196 7.55395 9.83524 7.09547 10.4444 7.09547C11.0537 7.09547 11.5364 7.55395 11.5364 8.06447Z" fill="#FF6682"/>
+    </g>
+    <defs>
+    <clipPath id="clip0_1_129">
+    <rect width="16" height="16" rx="3" fill="white"/>
+    </clipPath>
+    </defs>
+    </svg>
+
+  Description: "Map component is an asset that helps to create a map around a given location. Component supports showing user's live location on the map and adding your own location pins to mark content."
+  InternalVersion: 3
+  VersionMajor: 1
+  VersionMinor: 2
+  VersionPatch: 0
+  ComponentUid: 0005f315-c3b9-061f-0000-00000001f46d
+  ExportUid: b19150bb-6531-43f8-8569-003b27927210
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    componentPrefab: false
+    enableScrolling: false
+    latitude: false
+    longitude: false
+    mapOutlineTexture: false
+    mapPinPrefab: false
+    mapPinsRotated: false
+    mapRotated: false
+    mapRotationSmoothing: false
+    mapUpdateThreshold: false
+    mapZoomLevel: false
+    maskTexture: false
+    rotation: false
+    setMapToCustomLocation: false
+    showUserPin: false
+    useOutlineTexture: false
+    userPinRotated: false
+    userPinScale: false
+    userPinVisual: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - componentPrefab: !<reference.ObjectPrefab> 28051d46-9be9-4234-933b-cb90bad04876
+      maskTexture: !<reference.Texture> 6d3da423-7069-4531-845f-2a465c9f9300
+      useOutlineTexture: true
+      mapOutlineTexture: !<reference.Texture> 6844e925-e163-4fa6-a5c9-bd30699a82a6
+      mapZoomLevel: !<float> 16.000000
+      showUserPin: true
+      userPinVisual: !<reference.ObjectPrefab> 595354e2-495b-4054-acdc-1ee116fd1147
+      userPinScale: !<Vec2> {x: 1.000000, y: 1.000000}
+      userPinRotated: true
+      mapPinPrefab: !<reference.ObjectPrefab> fc18f04a-99f6-4608-a33f-a6ce4936aec6
+      mapPinsRotated: true
+      enableScrolling: false
+      setMapToCustomLocation: false
+      longitude: ""
+      latitude: ""
+      rotation: !<float> 0.000000
+      mapRotated: true
+      mapRotationSmoothing: true
+      mapUpdateThreshold: 0.100000
+  ScriptTypes:
+    -
+      {}

@@ -1,0 +1,40 @@
+- !<AssetImportMetadata/e54d56e4-7d70-4e3f-a3d1-3b7ca68dfc94>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 10e86975-d310-4569-83b2-3921e6e4b1d4
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 10e86975-d310-4569-83b2-3921e6e4b1d4
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> 421cbfb0-dc05-4b7c-91d9-322980bf8218
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/fd118a67-fe1e-4b1c-b157-f7e9685ffcec>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/421cbfb0-dc05-4b7c-91d9-322980bf8218>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    findPlace_Script: false
+    placeItemPrefab: false
+    songItemPrefab: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - songItemPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      placeItemPrefab: !<reference.ObjectPrefab> 00000000-0000-0000-0000-000000000000
+      findPlace_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

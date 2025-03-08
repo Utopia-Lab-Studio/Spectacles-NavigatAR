@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/c09b92ab-59fb-4f75-b784-66b797f8d1d1>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9eb49996-ad27-4a3a-9924-4eefc22746e6
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9eb49996-ad27-4a3a-9924-4eefc22746e6
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> ddacd205-3eb6-4170-aadd-9fbbf7e6abda
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/bb5267ae-468b-4aff-816a-b5856c9621c8>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/ddacd205-3eb6-4170-aadd-9fbbf7e6abda>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    imageLogo: false
+    imageText: false
+    tutorialImages: false
+    tutorialSequence: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - imageLogo: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      imageText: !<reference.Image> 00000000-0000-0000-0000-000000000000
+      tutorialSequence: !<reference.Image[]>
+        []
+      tutorialImages: !<reference.Texture[]>
+        []
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input Component.Image imageLogo
+    - // @input Component.Image imageText
+    - // @input Component.Image tutorialSequence
+    - "// @input Asset.Texture[] tutorialImages"

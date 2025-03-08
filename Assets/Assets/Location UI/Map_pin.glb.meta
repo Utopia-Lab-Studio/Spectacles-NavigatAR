@@ -1,0 +1,149 @@
+- !<AssetImportMetadata/d671156a-299a-471e-bed7-656a80eaa16a>
+  ImportedAssetIds:
+    .hidden/plastic touched: !<reference> 723fbc1d-7c01-4ae6-82c7-65a420153484
+    4e6c8797971782b8: !<reference> 5d5d0d5d-2884-4e28-8439-26fd93aa65f9
+    624f6792bd6e379e: !<reference> 9fb73ec2-bab7-4b48-b14b-3296427569fc
+    7010401163dac2c8: !<reference> 73a05554-f2c4-4434-aac5-b35bdd2aae7d
+    7a0dd5cd69df73fa: !<reference> 6b536ae5-4a4a-4d4f-bae5-e2c81551c69d
+    Materials/plastic touched: !<reference> 4c820b9d-7c22-4e8f-a87d-07e68f574a16
+    Materials/plastic touched|plastic touched|GraphPassInfo: !<reference> bd3fa833-d0ab-4c30-ac6d-5922a69de3cc
+    Meshes/Circle.001: !<reference> c010897e-fabd-494f-baa0-6751077ebedf
+    Scene: !<reference> 2e0f3316-bbd3-4472-84d5-e393c112db9a
+    e140c4199169af55: !<reference> 214c350a-37f9-4edc-ad6e-ddd726e12927
+    ffe65c549d990d46: !<reference> c7531106-20d1-41c3-b807-550f21da1c2f
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 2e0f3316-bbd3-4472-84d5-e393c112db9a
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 6648f633-692f-40bc-af56-97d2da508bd4
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings/2c9197f4-a4ff-4b59-8877-ff94504e7fed>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitize
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings/56139237-d5bc-433d-bbee-f37c0c1c4f75>
+    Presets:
+      None Compression: !<SingleCompressionSettings/a51e617f-51a0-4161-8810-d06b3c47f6d8>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+    ExtensionMappings:
+      mesh: None Compression
+    Overrides:
+      {}
+- !<SceneObject/3415a9a3-fdda-4628-839e-dfe55002fdc6>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 5e12aa1b-5f45-4202-a437-e01a99332ba1
+  Components:
+    - !<own> f2ddcee8-3ff6-42eb-a127-3384a266594a
+- !<SceneObject/46f0cf55-fca5-417e-be47-bec44c18f3e9>
+  PrefabRemaps:
+    []
+  Name: Map_pin
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 77ed7577-6769-4826-a8f8-d2124cde4f91
+  Components:
+    []
+- !<SceneObject/5e12aa1b-5f45-4202-a437-e01a99332ba1>
+  PrefabRemaps:
+    []
+  Name: Circle.001
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 2.827893, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.922884, y: 1.922884, z: 1.922884}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 925cce90-9bb0-40f1-a9a5-db65d190e197
+- !<ObjectPrefabAssetData/6648f633-692f-40bc-af56-97d2da508bd4>
+  SourceRemaps:
+    - 214c350a-37f9-4edc-ad6e-ddd726e12927: f2ddcee8-3ff6-42eb-a127-3384a266594a
+    - 2e0f3316-bbd3-4472-84d5-e393c112db9a: 6c5816c4-a290-4804-add3-1f823bb47a30
+    - 5d5d0d5d-2884-4e28-8439-26fd93aa65f9: 3415a9a3-fdda-4628-839e-dfe55002fdc6
+    - 6b536ae5-4a4a-4d4f-bae5-e2c81551c69d: 46f0cf55-fca5-417e-be47-bec44c18f3e9
+    - 73a05554-f2c4-4434-aac5-b35bdd2aae7d: 5e12aa1b-5f45-4202-a437-e01a99332ba1
+    - 9fb73ec2-bab7-4b48-b14b-3296427569fc: 77ed7577-6769-4826-a8f8-d2124cde4f91
+    - c7531106-20d1-41c3-b807-550f21da1c2f: 925cce90-9bb0-40f1-a9a5-db65d190e197
+  SourceState: !<own> 6c5816c4-a290-4804-add3-1f823bb47a30
+- !<ObjectPrefab/6c5816c4-a290-4804-add3-1f823bb47a30>
+  PackagePath: ""
+  objects:
+    - !<own> 46f0cf55-fca5-417e-be47-bec44c18f3e9
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/77ed7577-6769-4826-a8f8-d2124cde4f91>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3415a9a3-fdda-4628-839e-dfe55002fdc6
+  Components:
+    []
+- !<RenderMeshVisual/925cce90-9bb0-40f1-a9a5-db65d190e197>
+  PrefabRemaps:
+    []
+  Name: Circle.001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4c820b9d-7c22-4e8f-a87d-07e68f574a16
+  Mesh: !<reference> c010897e-fabd-494f-baa0-6751077ebedf
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<AnimationPlayer/f2ddcee8-3ff6-42eb-a127-3384a266594a>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    []

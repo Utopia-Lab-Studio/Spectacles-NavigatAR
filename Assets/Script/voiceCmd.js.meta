@@ -1,0 +1,45 @@
+- !<AssetImportMetadata/30500567-71ce-4725-bc0b-ad002df4389a>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 4d5add44-46b1-4e74-9a39-df636b7f3eae
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 4d5add44-46b1-4e74-9a39-df636b7f3eae
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> f237af86-5cd1-499c-9c10-681da3a4cb33
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/57acb6e3-9b09-44ac-898f-62f67adeb42c>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/f237af86-5cd1-499c-9c10-681da3a4cb33>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    findPlace_Script: false
+    hint_panel: false
+    keyboard_Script: false
+    vmlModule: false
+    voice_txt: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - vmlModule: !<reference.VoiceMLModule> 00000000-0000-0000-0000-000000000000
+      testOCR_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      voice_txt: !<reference.Text> 00000000-0000-0000-0000-000000000000
+      findPlace_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      keyboard_Script: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      hint_panel: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

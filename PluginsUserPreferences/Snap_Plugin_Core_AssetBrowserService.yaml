@@ -1,0 +1,16 @@
+ExternalSources:
+  type: "std::map<class Es::Uuid,class Es::Path,struct std::less<class Es::Uuid>,class std::allocator<struct std::pair<class Es::Uuid const ,class Es::Path> > >"
+  value:
+    - 0114602f-f39d-4990-a09d-901e7bb77e9c: /Users/didtc_macbook/Downloads/Arrow_GIF320.gif
+    - 01988932-5e00-4b3c-8e25-fbd31dc59e3f: "C:/Users/NOVA_PC/Downloads/Hint-Minimap.png"
+    - 04fcbb19-89ec-4627-87c7-fe54091b9628: /Users/pongsagonvichit/Downloads/Hint3-Keyboard.png
+    - 0bbfa9e4-468e-46cf-bf65-4ba4181032db: "D:/project_lens/Tweend.lsc"
+    - 13698a18-0535-41b9-9d0a-998d238b1da7: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/New UI/Hint1@2x.png"
+    - 41492988-3b26-40c2-ab3c-0b78f6229e3c: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/New UI/Icon_Minimap.glb"
+    - 4ad849fb-f922-4047-8021-33bf78200b83: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/New UI/Hint2@2x.png"
+    - 5d896b06-e894-4b30-9778-3312a296bb6f: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/navi_UI_23Feb/Assets/Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial-use.ss_graph"
+    - a5756090-2d6c-4467-afb5-8a51558d4905: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/navi_UI_23Feb/Assets/Minimap/SpectaclesInteractionKit/Components/UI/ContainerFrame/Materials/FrameMaterial-original.mat"
+    - b0c0c98e-7d66-43cb-b13e-aabc920d8525: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/New UI/Map-Panel-Curve.glb"
+    - d9944d8a-87ba-467b-a20b-26b5a9de05c4: "C:/Users/Sufee Yama/Desktop/Spectacles Lens Fund/Map/Project files/New UI/Hint3@2x.png"
+    - f3b52379-235b-4725-9191-9d6e1d0ea009: /Users/pongsagonvichit/Downloads/Recenter_Icon2.glb
+  options: 4

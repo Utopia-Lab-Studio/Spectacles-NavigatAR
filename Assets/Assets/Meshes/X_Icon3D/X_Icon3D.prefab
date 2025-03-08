@@ -1,0 +1,86 @@
+- !<ObjectPrefab/0f62e4d4-9366-4429-8bf6-af8c92662ab9>
+  PackagePath: ""
+  objects:
+    - !<own> 96e8f225-d406-446b-9500-ba5c3df88cc6
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/287c778f-f734-4e09-9481-2d1a9b89c18d>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 50d813f7-a518-4591-8e84-904e842217b0
+  Components:
+    []
+- !<SceneObject/50d813f7-a518-4591-8e84-904e842217b0>
+  PrefabRemaps:
+    []
+  Name: Curve
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -0.190277, y: 0.000000, z: -0.000531}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 3.859322, y: 3.859322, z: 3.859322}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e8baa52e-3f2f-49f4-8b61-3fc3da3f1ec2
+- !<SceneObject/96e8f225-d406-446b-9500-ba5c3df88cc6>
+  PrefabRemaps:
+    []
+  Name: X_Icon3D
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> efcc728c-11cc-470b-8e5e-9995d5c09ad9
+  Components:
+    []
+- !<RenderMeshVisual/e8baa52e-3f2f-49f4-8b61-3fc3da3f1ec2>
+  PrefabRemaps:
+    []
+  Name: Curve
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 07e99d4c-7d9c-4010-bb57-43f4507ce19f
+  Mesh: !<reference> db3da274-ad60-4b8c-a706-80277174a87f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/efcc728c-11cc-470b-8e5e-9995d5c09ad9>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 287c778f-f734-4e09-9481-2d1a9b89c18d
+  Components:
+    []

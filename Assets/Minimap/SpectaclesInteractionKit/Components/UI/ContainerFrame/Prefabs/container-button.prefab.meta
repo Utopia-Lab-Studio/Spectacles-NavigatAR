@@ -1,0 +1,108 @@
+- !<AssetImportMetadata/744ae1f0-1ed7-48ee-a43b-d46efb84ecc1>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> a77aa34c-1efb-4e07-bde6-d5a307c7825e
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> a77aa34c-1efb-4e07-bde6-d5a307c7825e
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 356890c6-b681-414b-beb3-5502f8751632
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/5d9b54e8-cba9-40bc-9524-6957ce082ecc>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    {}
+- !<ScriptComponent/0c3f1316-5d5f-42c2-b861-270e74effa4c>
+  PrefabRemaps:
+    []
+  Name: PinchButton
+  Enabled: true
+  ScriptAsset: !<reference> 2c51b071-34d1-40f2-8a38-34c944077427
+  ScriptInputsDefault:
+    editEventCallbacks: true
+    customFunctionForOnButtonPinched: true
+    onButtonPinchedFunctionNames: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      editEventCallbacks: false
+      customFunctionForOnButtonPinched: !<reference.ScriptComponent> 00000000-0000-0000-0000-000000000000
+      onButtonPinchedFunctionNames: !<string[]>
+        []
+  ScriptTypes:
+    "":
+      {}
+- !<ObjectPrefabAssetData/356890c6-b681-414b-beb3-5502f8751632>
+  SourceRemaps:
+    - 0a23073c-9859-442a-91c3-6e5b91b0a7ab: f297d29a-1e93-4ce5-87cb-0908170631e5
+    - 1f136c74-7d65-47a9-a64f-5996ed5c78a4: 61872da7-c4b2-4d7d-b595-0bf3636cea2d
+    - 614577e6-e6e8-4c09-90d2-d8da96ccf04f: 4dae962b-7264-4436-9590-2337ed640c58
+    - 812929f6-48a8-4e38-8646-44c39ca8ac17: 0c3f1316-5d5f-42c2-b861-270e74effa4c
+  SourceState: !<own> aff1e183-a91c-4ccf-b17d-7346d31f382f
+- !<ScriptComponent/4dae962b-7264-4436-9590-2337ed640c58>
+  PrefabRemaps:
+    []
+  Name: Interactable
+  Enabled: true
+  ScriptAsset: !<reference> 87beb58b-9209-408c-9120-b0c4c907e7bb
+  ScriptInputsDefault:
+    targetingMode: true
+    enableInstantDrag: true
+    allowMultipleInteractors: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      targetingMode: !<float> 3.000000
+      enableInstantDrag: false
+      allowMultipleInteractors: true
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/61872da7-c4b2-4d7d-b595-0bf3636cea2d>
+  PrefabRemaps:
+    []
+  Name: container-button
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -1.935684, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f297d29a-1e93-4ce5-87cb-0908170631e5
+    - !<own> 4dae962b-7264-4436-9590-2337ed640c58
+    - !<own> 0c3f1316-5d5f-42c2-b861-270e74effa4c
+- !<ObjectPrefab/aff1e183-a91c-4ccf-b17d-7346d31f382f>
+  PackagePath: ""
+  objects:
+    - !<own> 61872da7-c4b2-4d7d-b595-0bf3636cea2d
+  LazyLoading: false
+  RetainAssets: true
+- !<RenderMeshVisual/f297d29a-1e93-4ce5-87cb-0908170631e5>
+  PrefabRemaps:
+    []
+  Name: component_6
+  Enabled: true
+  RenderOrder: 1
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 11d5f17f-cdc1-4ec5-8482-8ed59a9408a6
+  Mesh: !<reference> b0030d71-cf28-47e0-8ff6-19ac4663240f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: true
+  BlendShapes:
+    Pinch: 0.000000
+    Z depth: 1.000000

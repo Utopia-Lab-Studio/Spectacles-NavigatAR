@@ -1,0 +1,275 @@
+- !<AssetImportMetadata/875a6c26-20b8-4fa2-b8d7-1db8d518c280>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 28051d46-9be9-4234-933b-cb90bad04876
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 28051d46-9be9-4234-933b-cb90bad04876
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 0f2589c4-548b-49c2-aa64-33a9d4eca4f6
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/ec62616c-7916-4d7f-965b-a6d2d6b28630>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+  ExtraData:
+    {}
+- !<SceneObject/05ae6eda-0ed8-45c1-8ac6-f939a80513df>
+  PrefabRemaps:
+    []
+  Name: Map Mask
+  Enabled: false
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -3.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3281a6af-dff2-4ac2-9d1b-e0e86bfe6642
+    - !<own> 07b3eae0-f781-48f0-9339-4f55ec843a24
+- !<Image/07b3eae0-f781-48f0-9339-4f55ec843a24>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6f30b038-a047-4b65-8a5e-38fd94ca98f4
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ObjectPrefabAssetData/0f2589c4-548b-49c2-aa64-33a9d4eca4f6>
+  SourceRemaps:
+    - 08ea5ae5-22bc-44f8-bedc-9a18ef55ecef: 47dc4be2-5d08-492d-8b8f-5e947ff5cd09
+    - 23378a03-6eec-423a-8f80-0e575a7814d7: 3281a6af-dff2-4ac2-9d1b-e0e86bfe6642
+    - 3401394c-d0dc-45f2-8123-007306964788: 07b3eae0-f781-48f0-9339-4f55ec843a24
+    - 370cd891-3160-488d-8091-d9d0b69df1f0: e00dcfbf-432b-4bfb-8796-b6f07bb8bc2c
+    - 59c06e5f-f4eb-4246-a174-5b96bb867e5d: 97c2e0d6-5e96-4d85-a5d3-8401f47238a7
+    - a303db8e-0a56-4b0b-ad9a-98bfa1d9ea77: b67c28a8-d104-46ba-83df-f93f0c49a318
+    - a57aa276-0052-41dc-91fd-508f17fa1505: 2cc1c25d-004c-43c6-9534-31c1509d79ba
+    - a757941b-e6d6-4eae-a6d5-59b0b6d48682: 6ecf5b91-8ee2-4a31-be7c-004519064d34
+    - ab8d93cc-1c93-4a6b-9069-554c45618e2f: e3b06261-4084-4649-8dc7-b8a08a1e9268
+    - c315f7a2-8d8a-496b-bc15-52676410448b: 6def0f99-f226-467a-835c-3adc1445690f
+    - dc79a00a-6f1b-45a8-9bc7-fa42158211fd: 05ae6eda-0ed8-45c1-8ac6-f939a80513df
+  SourceState: !<own> f4a034f9-dabc-46c9-abfc-2d90a058b1c2
+- !<SceneObject/2cc1c25d-004c-43c6-9534-31c1509d79ba>
+  PrefabRemaps:
+    []
+  Name: LocationService
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e00dcfbf-432b-4bfb-8796-b6f07bb8bc2c
+- !<ScreenTransform/3281a6af-dff2-4ac2-9d1b-e0e86bfe6642>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -3.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScriptComponent/47dc4be2-5d08-492d-8b8f-5e947ff5cd09>
+  PrefabRemaps:
+    []
+  Name: MapController
+  Enabled: true
+  ScriptAsset: !<reference> a4160cbb-e5ce-4eec-90f6-865b0a035bb5
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      mapModule: !<reference.MapModule> 2427351e-9d8e-4484-a3b6-385b308cd033
+      locationService: !<reference.ScriptComponent> e00dcfbf-432b-4bfb-8796-b6f07bb8bc2c
+      mapTileMaterial: !<reference.Material> 1645c456-93ea-416d-926f-4c01631c5acb
+      lineMaterial: !<reference.Material> 5583a91d-e827-4271-bb12-f7203e8af2a6
+      mapRenderPrefab: !<reference.ObjectPrefab> 21d8b3a2-d22d-4441-a55b-aaf33fbfa659
+      maskMaterial: !<reference.Material> ab7c3b1a-7b0c-4e47-9565-f80d2e98ae01
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/6def0f99-f226-467a-835c-3adc1445690f>
+  PrefabRemaps:
+    []
+  Name: Map Render
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e3b06261-4084-4649-8dc7-b8a08a1e9268
+    - !<own> 97c2e0d6-5e96-4d85-a5d3-8401f47238a7
+- !<SceneObject/6ecf5b91-8ee2-4a31-be7c-004519064d34>
+  PrefabRemaps:
+    []
+  Name: Map component
+  Enabled: true
+  Layers: 1048576
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 05ae6eda-0ed8-45c1-8ac6-f939a80513df
+    - !<own> 2cc1c25d-004c-43c6-9534-31c1509d79ba
+    - !<own> 6def0f99-f226-467a-835c-3adc1445690f
+  Components:
+    - !<own> b67c28a8-d104-46ba-83df-f93f0c49a318
+    - !<own> 47dc4be2-5d08-492d-8b8f-5e947ff5cd09
+- !<Image/97c2e0d6-5e96-4d85-a5d3-8401f47238a7>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ab7c3b1a-7b0c-4e47-9565-f80d2e98ae01
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<ScreenTransform/b67c28a8-d104-46ba-83df-f93f0c49a318>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: -1.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ScriptComponent/e00dcfbf-432b-4bfb-8796-b6f07bb8bc2c>
+  PrefabRemaps:
+    []
+  Name: LocationService
+  Enabled: true
+  ScriptAsset: !<reference> 4631ebf1-9909-422a-8de2-7d9224ea90b7
+  ScriptInputsDefault:
+    sampleRateMillis: true
+    useRawCompassHeading: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      sampleRateMillis: 100
+      useRawCompassHeading: false
+  ScriptTypes:
+    "":
+      {}
+- !<ScreenTransform/e3b06261-4084-4649-8dc7-b8a08a1e9268>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: false
+    fixedHeight: false
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: -1.000000
+    bottom: -1.000000
+    right: 1.000000
+    top: 1.000000
+  Offset:
+    left: 0.000000
+    bottom: 0.000000
+    right: 0.000000
+    top: 0.000000
+- !<ObjectPrefab/f4a034f9-dabc-46c9-abfc-2d90a058b1c2>
+  PackagePath: ""
+  objects:
+    - !<own> 6ecf5b91-8ee2-4a31-be7c-004519064d34
+  LazyLoading: false
+  RetainAssets: true

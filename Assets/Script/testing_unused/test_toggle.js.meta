@@ -1,0 +1,39 @@
+- !<AssetImportMetadata/b93159f8-84a0-4a5c-b634-e6e72caab39b>
+  ImportedAssetIds:
+    JavaScriptAsset: !<reference> 3c1e1bc9-15b2-4a41-932e-4c8ddd61e4e7
+  ImporterName: JavaScriptAssetImporter
+  PrimaryAsset: !<reference> 3c1e1bc9-15b2-4a41-932e-4c8ddd61e4e7
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    JavaScriptAsset: !<own> e24a4104-b5ee-4b6e-9652-aab6dce5b6c8
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/2cb6a554-9808-47ef-a510-2b8a411cf715>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<ScriptAssetData/e24a4104-b5ee-4b6e-9652-aab6dce5b6c8>
+  SvgIcon: ""
+  Description: ""
+  InternalVersion: 0
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 00000000-0000-0000-0000-000000000000
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    toggle1_obj: false
+    toggle2_obj: false
+  ScriptTypesHidden:
+    {}
+  DefaultScriptInputs:
+    - a_toggle: !<reference.ToggleButton> 00000000-0000-0000-0000-000000000000
+      toggle1_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      toggle2_obj: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}

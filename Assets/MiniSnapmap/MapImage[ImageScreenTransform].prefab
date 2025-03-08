@@ -1,0 +1,207 @@
+- !<ObjectPrefab/03dcf438-a8f4-4f73-8d71-3bcfcaefdae4>
+  PackagePath: ""
+  objects:
+    - !<own> 2eeba596-8816-4e8d-967e-95d222206a0a
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/2eeba596-8816-4e8d-967e-95d222206a0a>
+  PrefabRemaps:
+    []
+  Name: "MapImage[ImageScreenTransform]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 4.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ca8f7bed-fec7-483c-a865-e70f9bf89383
+  Components:
+    - !<own> bde2446d-8705-4337-9d63-215cb1a80f3a
+    - !<own> ff9f5965-89f7-4d66-b572-24ec1d371672
+    - !<own> 52b7dcc5-9f6c-4e30-9ba3-c5458da0515a
+- !<RenderMeshVisual/419f4e44-eb60-4bd7-8f0b-bcc749a1fbb2>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 1
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e7a2d3cf-9459-4d88-bbab-4f404ba92d4e
+  Mesh: !<reference> ba2800bb-2ffa-4ca7-9be7-87cc529d69c1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ScreenTransform/52b7dcc5-9f6c-4e30-9ba3-c5458da0515a>
+  PrefabRemaps:
+    []
+  Name: Screen Transform
+  Enabled: true
+  IsAdvanced: false
+  Constraints:
+    pinToLeft: false
+    pinToTop: false
+    pinToRight: false
+    pinToBottom: false
+    fixedWidth: true
+    fixedHeight: true
+    deactivatedFixedSprite: false
+    deactivatedFixedPivot: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  Transform:
+    position: {x: 0.000000, y: 0.000000, z: 4.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  RawMode: true
+  ForceBasic: true
+  Anchor:
+    left: 0.000000
+    bottom: 6.000000
+    right: 0.000000
+    top: 6.000000
+  Offset:
+    left: -7.500000
+    bottom: -7.500000
+    right: 7.500000
+    top: 7.500000
+- !<SceneObject/8a8b09e4-911c-4ca5-bd36-94de3a4e0f53>
+  PrefabRemaps:
+    []
+  Name: BaseCylinder
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000008, y: -0.000027, z: 0.278612}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 43.000000, y: 43.000023, z: 14.751287}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 419f4e44-eb60-4bd7-8f0b-bcc749a1fbb2
+- !<RenderMeshVisual/91c5876f-aa16-4ec7-83a4-97995c639e16>
+  PrefabRemaps:
+    []
+  Name: Render Mesh Visual
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 67608af1-8851-437a-ada8-65c8bcce5aa5
+  Mesh: !<reference> 51fe568b-dcf5-4ef9-9ca0-ee7a49cce2a1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    glow size: 0.220000
+- !<SceneObject/9371b87a-de9a-41ff-86d7-d10353a5a88a>
+  PrefabRemaps:
+    []
+  Name: Glow
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000008, y: -0.000027, z: -1.423378}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 42.000000, y: 42.000011, z: 42.000011}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 91c5876f-aa16-4ec7-83a4-97995c639e16
+- !<Image/bde2446d-8705-4337-9d63-215cb1a80f3a>
+  PrefabRemaps:
+    []
+  Name: Image
+  Enabled: true
+  RenderOrder: 300
+  StretchMode: Fit
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 50b8c3b4-a00b-4b02-a68c-b3f8f9b07b01
+  FlipX: false
+  FlipY: false
+  Pivot: {x: 0.000000, y: 0.000000}
+  ExtentsTarget: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/ca8f7bed-fec7-483c-a865-e70f9bf89383>
+  PrefabRemaps:
+    []
+  Name: MapBase
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: -0.596807}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.580000, y: 0.580000, z: 0.580000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9371b87a-de9a-41ff-86d7-d10353a5a88a
+    - !<own> 8a8b09e4-911c-4ca5-bd36-94de3a4e0f53
+  Components:
+    []
+- !<ScriptComponent/ff9f5965-89f7-4d66-b572-24ec1d371672>
+  PrefabRemaps:
+    []
+  Name: Map
+  Enabled: true
+  ScriptAsset: !<reference> 659a44d1-654b-441b-85d0-d826e3c6c2ab
+  ScriptInputsDefault:
+    componentPrefab: true
+    maskTexture: true
+    useOutlineTexture: true
+    mapOutlineTexture: true
+    showUserPin: true
+    userPinVisual: true
+    userPinRotated: true
+    mapPinPrefab: true
+    mapPinsRotated: true
+    enableScrolling: true
+    rotation: true
+    mapRotated: true
+    mapRotationSmoothing: true
+    mapUpdateThreshold: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      componentPrefab: !<reference.ObjectPrefab> 28051d46-9be9-4234-933b-cb90bad04876
+      maskTexture: !<reference.Texture> 6d3da423-7069-4531-845f-2a465c9f9300
+      useOutlineTexture: true
+      mapOutlineTexture: !<reference.Texture> 6844e925-e163-4fa6-a5c9-bd30699a82a6
+      mapZoomLevel: !<float> 18.000000
+      showUserPin: true
+      userPinVisual: !<reference.ObjectPrefab> 595354e2-495b-4054-acdc-1ee116fd1147
+      userPinScale: !<Vec2> {x: 5.000000, y: 5.000000}
+      userPinRotated: true
+      mapPinPrefab: !<reference.ObjectPrefab> fc18f04a-99f6-4608-a33f-a6ce4936aec6
+      mapPinsRotated: true
+      enableScrolling: false
+      setMapToCustomLocation: true
+      longitude: !<string> 100.53255
+      latitude: !<string> 13.74455
+      rotation: !<float> 0.000000
+      mapRotated: true
+      mapRotationSmoothing: true
+      mapUpdateThreshold: 0.100000
+  ScriptTypes:
+    "":
+      {}
