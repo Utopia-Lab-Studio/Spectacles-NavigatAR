@@ -13,11 +13,11 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 
 
 ## Prerequisites
-Lens Studio: v5.4.0+
-Spectacles OS Version: v5.59.218+
-Spectacles App (iOS/Android): v0.59.1.1+
+- Lens Studio: v5.4.0+
+- Spectacles OS Version: v5.59.218+
+- Spectacles App (iOS/Android): v0.59.1.1+
+
 Make sure your Spectacles and mobile app are updated. Follow the Spectacles update guide to ensure you’re running the latest firmware.
-You can download the latest version of Lens Studio from here.
 
 
 ## User Flow
