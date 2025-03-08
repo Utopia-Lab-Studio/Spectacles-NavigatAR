@@ -1,4 +1,6 @@
 # Spectacles-NavigatAR
+<img src="https://github.com/Utopia-Lab-Studio/Spectacles-NavigatAR/blob/main/Capture.JPG" alt="shot 1" width="300" height="200">
+<img src="https://github.com/Utopia-Lab-Studio/Spectacles-NavigatAR/blob/main/Capture2.JPG" alt="shot 2" width="300" height="200">
 
 ## What is it
 - An AR navigation app for Spectacles.  Want to go somewhere? Just tell Spectacles. "Take me to the [place name]." \
