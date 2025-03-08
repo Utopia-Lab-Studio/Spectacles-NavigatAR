@@ -25,9 +25,11 @@ Need a place to stay? Yes, you can ask for that too >>> “Find hotels”
 3. Host the files in the Web folder in some web hosting. \
    These files are customized Google Map that will be called from Spectacles app
 4. Set the API key and the webpages URL in the project \
-   Select findPlace scene object, enter the Api Key and the webpages URL in the Inspector panel.
-5. Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
-6. Start the app. 
+   Select findPlace scene object, enter the Api Key in the Inspector panel. \
+   Route URL: set to index.html \
+   Nearby URL: set to places.html
+6. Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
+7. Start the app. 
 
    
 
