@@ -2,7 +2,7 @@
 <img src="https://github.com/Utopia-Lab-Studio/Spectacles-NavigatAR/blob/main/screenshot.JPG" alt="shot 1" width="600" height="400">
 
 ## What is it
-- A next-generation outdoor navigation system leveraging Snap Spectacles’ advanced AR capabilities. With NavigatAR, users can search nearby places, receive AR navigation guidance, and explore intuitive visual cues on their Spectacles. This README outlines the core features, current development progress, and how to get started integrating or customizing NavigatAR for your own use.
+A next-generation outdoor navigation system leveraging Snap Spectacles’ advanced AR capabilities. With NavigatAR, users can search nearby places, receive AR navigation guidance, and explore intuitive visual cues on their Spectacles. This README outlines the core features, current development progress, and how to get started integrating or customizing NavigatAR for your own use.
 
 ## Features
 1. AR guide system
