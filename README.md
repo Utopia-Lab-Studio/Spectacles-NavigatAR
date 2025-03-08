@@ -2,9 +2,25 @@
 <img src="https://github.com/Utopia-Lab-Studio/Spectacles-NavigatAR/blob/main/screenshot.JPG" alt="shot 1" width="600" height="400">
 
 ## What is it
-- An AR navigation app for Spectacles.  Want to go somewhere? Just tell Spectacles. "Take me to the [place name]." \
-Real time AR path will lead you to the destination. Are you hungry? Just say >>> “Find restaurants” \
-Need a place to stay? Yes, you can ask for that too >>> “Find hotels”
+- A next-generation outdoor navigation system leveraging Snap Spectacles’ advanced AR capabilities. With NavigatAR, users can search nearby places, receive AR navigation guidance, and explore intuitive visual cues on their Spectacles. This README outlines the core features, current development progress, and how to get started integrating or customizing NavigatAR for your own use.
+
+## Features
+1. AR guide system
+2. Voice Command
+3. Keyboard input
+4. Navigation suggestion with Map Web View 
+5. On hand Minimap 
+
+
+## User Flow
+1. Confirm North-facing direction
+2. Choose a Destination
+    - Choose Destination: Say “Take me to [Destination name]” → Pinch “Start”
+    - Nearby places: Say “Find [Destination type]” → View results → Select Destination → Pinch “Start”
+    - Keyboard input: Say “Show keyboard” to type on AR Keyboard → Pinch “Start”
+    - AR Navigation System – Arrow guide, Hand Mini-map, Direction details, and Speech notifications
+    - “Turn-by-Turn” Notification
+    - Arrival Notification – Destination pin + text confirmation
 
 ## Current limitations
 - The Spectacles' GPS accurate to within a 5 meters radius. (similar to the mobile phones' GPS)
