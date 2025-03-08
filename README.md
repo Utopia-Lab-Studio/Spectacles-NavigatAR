@@ -21,3 +21,4 @@ Need a place to stay? Yes, you can ask for that too >>> “Find hotels”
 
 
 ## Acknowledgment
+We would like to say a big THANK YOU to the Snap teams to help us refinning the app. More features to come. Stay tunes.
