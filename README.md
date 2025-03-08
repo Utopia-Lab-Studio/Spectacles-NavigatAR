@@ -5,7 +5,7 @@
 ## What is it
 - An AR navigation app for Spectacles.  Want to go somewhere? Just tell Spectacles. "Take me to the [place name]." \
 Real time AR path will lead you to the destination. Are you hungry? Just say >>> “Find restaurants” \
-Need a place to stay? Yes, you can ask for that too >>> “Find hotels” 
+Need a place to stay? Yes, you can ask for that too >>> “Find hotels”
 
 ## Current limitations
 - The Spectacles' GPS accurate to within a 5 meters radius. (similar to the mobile phones' GPS)
@@ -19,7 +19,18 @@ Need a place to stay? Yes, you can ask for that too >>> “Find hotels”
 
 
 ## Setting up the project in Lens Studio
--
+1. This project relied on Google MAP API.  Before using the project please obtain a Google MAP api key by following this instruction \
+   https://developers.google.com/maps/documentation/javascript/get-api-key
+2. Enable the following APIs \
+   Geocoding API, Directions API, Map Javascripts API, Places API (new) 
+3. Host the files in the Web folder in some web hosting. \
+   These files are customized Google Map that will be called from Spectacles app
+4. Set the API key and the webpages URL in the project \
+   Select findPlace scene object, enter the Api Key and the webpages URL in the Inspector panel.
+5. Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
+6. Start the app. 
+
+   
 
 
 ## Acknowledgment
