@@ -1,7 +1,9 @@
 # Spectacles-NavigatAR
 
 ## What is it
-- This is a t
+- An AR navigation app for Spectacles.  Want to go somewhere? Just tell Spectacles. "Take me to the [place name]." \
+Real time AR path will lead you to the destination. Are you hungry? Just say >>> “Find restaurants” \
+Need a place to stay? Yes, you can ask for that too >>> “Find hotels” 
 
 ## Current limitations
 - The Spectacles' GPS accurate to within a 5 meters radius. (similar to the mobile phones' GPS)
