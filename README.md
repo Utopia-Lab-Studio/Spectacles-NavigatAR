@@ -12,6 +12,14 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 5. On hand Minimap 
 
 
+## Prerequisites
+Lens Studio: v5.4.0+
+Spectacles OS Version: v5.59.218+
+Spectacles App (iOS/Android): v0.59.1.1+
+Make sure your Spectacles and mobile app are updated. Follow the Spectacles update guide to ensure you’re running the latest firmware.
+You can download the latest version of Lens Studio from here.
+
+
 ## User Flow
 1. Confirm North-facing direction
 2. Choose a Destination
@@ -47,7 +55,8 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 6. Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
 7. Start the app. 
 
-   
+## Disclaimer   
+NavigatAR is a prototype designed for demonstration and educational purposes. Ensure you follow Snap’s API usage policies, data privacy guidelines, and local regulations before deploying publicly.
 
 
 ## Acknowledgment
