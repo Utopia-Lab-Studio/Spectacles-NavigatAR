@@ -1,0 +1,38 @@
+studioVersion:
+  major: 5
+  minor: 4
+  patch: 1
+  build: 24122404
+  type: Internal
+updateCheckpoint: 52
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: Spectacles (2024)
+    cameraFov: nan
+    fullFrameAspect: 0.666660
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Spectacles
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: Navi_8mar
+  lensDescriptors:
+    - EXPERIMENTAL_API
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Spectacles
+  platformBundlesEnabled: false
+  iconHash: 2ba67987cc2c7529503da798a6179f16
+  videoPreviewHash: ""
+  fromTemplateName: Spectacles
+  fromTemplateUrl: Lens Studio 5.4.0.24121706
+  activationCamera: Front
+  sourceMapEnabled: false
