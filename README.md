@@ -12,7 +12,7 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 <ul>
 </p>
 <li>Destination search</li>
-<li>Neaby places search (currently available: Hotel, Restaurant, Coffee shop)</li>
+<li>Nearby places search (currently available: Hotel, Restaurant, Coffee shop)</li>
 </ul>
 <p align="left">
 <b>2. Command</b>
@@ -28,7 +28,7 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 <ul>
 <li>AR visual cues</li>
 <li>Navigation suggestion with Map Web View</li>
-<li>On hand Minimap</li>
+<li>On-hand Minimap</li>
 </ul>
 </p>
 
@@ -101,7 +101,7 @@ Make sure your Spectacles and mobile app are updated. Follow the Spectacles upda
 
 ## Setting up the project in Lens Studio
 <p style="line-height: 1.5; text-align: left;">
-<b>1. This project relied on Google MAP API.  Before using the project please obtain a Google MAP api key by following this instruction</b> 
+<b>1. This project relies on Google MAP API.  Before using the project please obtain a Google MAP api key by following this instruction</b> 
    https://developers.google.com/maps/documentation/javascript/get-api-key
 </p>
 
@@ -140,4 +140,4 @@ NavigatAR is a prototype designed for demonstration and educational purposes. En
 
 
 ## Acknowledgment
-We would like to say a big THANK YOU to the Snap teams to help us refinning the app. More features to come. Stay tunes.
+We would like to say a big THANK YOU to the Snap teams to help us refining the app. More features are coming soon. Stay tuned.
