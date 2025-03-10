@@ -122,14 +122,14 @@ Make sure your Spectacles and mobile app are updated. Follow the Spectacles upda
 </p>
 <p style="line-height: 2.5; text-align: left;">
 <ul>
-<li>Select findPlace scene object, enter <b>the Api Key</b> in the Inspector panel.</li>
+<li>Select <b>findPlace</b> scene object, enter <b>the Api Key</b> in the Inspector panel.</li>
 <li><b>Route URL:</b> set to index.html</li>
-<li>Nearby URL:</b> set to places.html</li>
+<li><b>Nearby URL:</b> set to places.html</li>
 </ul>
 </p>
 
 >[!NOTE]
->Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
+>Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone.
 <p align="left">
 <b>5. Deploy the project to your Spectacles device.</b>
 </p>
