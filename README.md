@@ -19,16 +19,49 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 
 Make sure your Spectacles and mobile app are updated. Follow the Spectacles update guide to ensure you’re running the latest firmware.
 
-
 ## User Flow
-1. Confirm North-facing direction
-2. Choose a Destination
-    - Choose Destination: Say “Take me to [Destination name]” → Pinch “Start”
-    - Nearby places: Say “Find [Destination type]” → View results → Select Destination → Pinch “Start”
-    - Keyboard input: Say “Show keyboard” to type on AR Keyboard → Pinch “Start”
-    - AR Navigation System – Arrow guide, Hand Mini-map, Direction details, and Speech notifications
-    - “Turn-by-Turn” Notification
-    - Arrival Notification – Destination pin + text confirmation
+
+1. Choose a Destination
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcbd5256-63af-4cf7-bd91-8de67218253a" width="600" />
+</p>
+<p align="center">
+  <b>Choose Destination:</b> Say “Take me to [Destination name]” → Pinch “Start”<br>
+  <b>Nearby places search:</b> Say “Find [Destination type]” → View results → Select Destination → Pinch “Start”<br>
+  <b>For Keyboard input:</b> Say “Show keyboard” to type on AR Keyboard → Pinch “Start”
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a545fae-0f96-4580-8c8d-20d861ad8de9" width="600" />
+</p>
+<p align="center">
+  Select your desired destination from Nearby Place list and see direction steps → Pinch “Start”
+</p>
+
+2. AR Navigation System
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41ecd7fe-3231-45a6-92a9-584d76024e66" width="600" />
+</p>
+<p align="center">
+  Arrow guide, “Turn-by-Turn” Notification, Direction details, and Speech notifications
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3f4921eb-9038-4c54-b6cf-e4fb3721dffe" width="300" />
+</p>
+<p align="center">
+  Look at your right palm to see progress on hand Minimap and Controls
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/211a1e02-8d5e-4e4f-86ba-14207694148c" width="600" />
+</p>
+<p align="center">
+  Arrival Notification – Destination pin + text confirmation
+</p>
+
 
 ## Current limitations
 - The Spectacles' GPS accurate to within a 5 meters radius. (similar to the mobile phones' GPS)
