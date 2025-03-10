@@ -131,7 +131,7 @@ Make sure your Spectacles and mobile app are updated. Follow the Spectacles upda
 >[!NOTE]
 >Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
 <p align="left">
-<b>5. Deploy the project to your Spectacles device.</b>b
+<b>5. Deploy the project to your Spectacles device.</b>
 </p>
 
 ## Disclaimer   
