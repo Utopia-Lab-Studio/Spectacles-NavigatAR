@@ -56,7 +56,7 @@ Make sure your Spectacles and mobile app are updated. Follow the Spectacles upda
 
 >[!NOTE]
 >Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
-7. Start the app. 
+5. Deploy the project to your Spectacles device.
 
 ## Disclaimer   
 NavigatAR is a prototype designed for demonstration and educational purposes. Ensure you follow Snap’s API usage policies, data privacy guidelines, and local regulations for appropriate use.
