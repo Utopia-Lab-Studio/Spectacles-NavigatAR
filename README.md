@@ -49,9 +49,12 @@ Make sure your Spectacles and mobile app are updated. Follow the Spectacles upda
 3. Host the files in the Web folder in some web hosting. \
    These files are customized Google Map that will be called from Spectacles app
 4. Set the API key and the webpages URL in the project \
+![Image](https://github.com/user-attachments/assets/90fbc0d2-491b-4845-9b97-9ab8ed76ba51)
    Select findPlace scene object, enter the Api Key in the Inspector panel. \
    Route URL: set to index.html \
    Nearby URL: set to places.html
+
+
 6. Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
 7. Start the app. 
 
