@@ -11,7 +11,7 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 <b>1. Search Mode</b>
 <ul>
 </p>
-<li>Location search</li>
+<li>Destination search</li>
 <li>Neaby places search (currently available: Hotel, Restaurant, Coffee shop)</li>
 </ul>
 <p align="left">
