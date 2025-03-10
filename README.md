@@ -26,6 +26,7 @@ A next-generation outdoor navigation system leveraging Snap Spectacles’ advanc
 <p align="left">
 <b>3. AR guide system </b>
 <ul>
+<li>AR visual cues</li>
 <li>Navigation suggestion with Map Web View</li>
 <li>On hand Minimap</li>
 </ul>
