@@ -54,8 +54,8 @@ Make sure your Spectacles and mobile app are updated. Follow the Spectacles upda
    Route URL: set to index.html \
    Nearby URL: set to places.html
 
-
-6. Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
+[!NOTE]  
+Enable Experimental mode in Lens studio and in the Spectacles app on your mobile phone
 7. Start the app. 
 
 ## Disclaimer   
